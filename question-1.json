@@ -1,0 +1,5051 @@
+[
+    {
+        "question_id": 3172,
+        "question__title": "Divisible and Non-divisible Sums Difference",
+        "question__title_slug": "divisible-and-non-divisible-sums-difference",
+        "total_acs": 34686,
+        "total_submitted": 39706,
+        "frontend_question_id": 2894,
+        "is_new_question": false
+    },
+    {
+        "question_id": 3165,
+        "question__title": "Find Indices With Index and Value Difference I",
+        "question__title_slug": "find-indices-with-index-and-value-difference-i",
+        "total_acs": 26353,
+        "total_submitted": 41801,
+        "frontend_question_id": 2903,
+        "is_new_question": false
+    },
+    {
+        "question_id": 3164,
+        "question__title": "Last Visited Integers",
+        "question__title_slug": "last-visited-integers",
+        "total_acs": 18351,
+        "total_submitted": 28698,
+        "frontend_question_id": 2899,
+        "is_new_question": false
+    },
+    {
+        "question_id": 3154,
+        "question__title": "Maximum Value of an Ordered Triplet I",
+        "question__title_slug": "maximum-value-of-an-ordered-triplet-i",
+        "total_acs": 29006,
+        "total_submitted": 65841,
+        "frontend_question_id": 2873,
+        "is_new_question": false
+    },
+    {
+        "question_id": 3093,
+        "question__title": "Sum of Values at Indices With K Set Bits",
+        "question__title_slug": "sum-of-values-at-indices-with-k-set-bits",
+        "total_acs": 35780,
+        "total_submitted": 41392,
+        "frontend_question_id": 2859,
+        "is_new_question": false
+    },
+    {
+        "question_id": 3076,
+        "question__title": "Get the Size of a DataFrame",
+        "question__title_slug": "get-the-size-of-a-dataframe",
+        "total_acs": 5205,
+        "total_submitted": 6110,
+        "frontend_question_id": 2878,
+        "is_new_question": false
+    },
+    {
+        "question_id": 3075,
+        "question__title": "Drop Missing Data",
+        "question__title_slug": "drop-missing-data",
+        "total_acs": 3609,
+        "total_submitted": 4849,
+        "frontend_question_id": 2883,
+        "is_new_question": false
+    },
+    {
+        "question_id": 3074,
+        "question__title": "Select Data",
+        "question__title_slug": "select-data",
+        "total_acs": 4396,
+        "total_submitted": 5569,
+        "frontend_question_id": 2880,
+        "is_new_question": false
+    },
+    {
+        "question_id": 3073,
+        "question__title": "Reshape Data: Melt",
+        "question__title_slug": "reshape-data-melt",
+        "total_acs": 2452,
+        "total_submitted": 2953,
+        "frontend_question_id": 2890,
+        "is_new_question": false
+    },
+    {
+        "question_id": 3072,
+        "question__title": "Reshape Data: Pivot",
+        "question__title_slug": "reshape-data-pivot",
+        "total_acs": 2554,
+        "total_submitted": 3191,
+        "frontend_question_id": 2889,
+        "is_new_question": false
+    },
+    {
+        "question_id": 3071,
+        "question__title": "Drop Duplicate Rows",
+        "question__title_slug": "drop-duplicate-rows",
+        "total_acs": 3653,
+        "total_submitted": 4400,
+        "frontend_question_id": 2882,
+        "is_new_question": false
+    },
+    {
+        "question_id": 3070,
+        "question__title": "Fill Missing Data",
+        "question__title_slug": "fill-missing-data",
+        "total_acs": 3356,
+        "total_submitted": 4209,
+        "frontend_question_id": 2887,
+        "is_new_question": false
+    },
+    {
+        "question_id": 3069,
+        "question__title": "Change Data Type",
+        "question__title_slug": "change-data-type",
+        "total_acs": 3196,
+        "total_submitted": 3743,
+        "frontend_question_id": 2886,
+        "is_new_question": false
+    },
+    {
+        "question_id": 3068,
+        "question__title": "Rename Columns",
+        "question__title_slug": "rename-columns",
+        "total_acs": 3418,
+        "total_submitted": 3982,
+        "frontend_question_id": 2885,
+        "is_new_question": false
+    },
+    {
+        "question_id": 3067,
+        "question__title": "Modify Columns",
+        "question__title_slug": "modify-columns",
+        "total_acs": 4000,
+        "total_submitted": 4438,
+        "frontend_question_id": 2884,
+        "is_new_question": false
+    },
+    {
+        "question_id": 3066,
+        "question__title": "Create a New Column",
+        "question__title_slug": "create-a-new-column",
+        "total_acs": 4564,
+        "total_submitted": 5071,
+        "frontend_question_id": 2881,
+        "is_new_question": false
+    },
+    {
+        "question_id": 3065,
+        "question__title": "Display the First Three Rows",
+        "question__title_slug": "display-the-first-three-rows",
+        "total_acs": 5965,
+        "total_submitted": 6459,
+        "frontend_question_id": 2879,
+        "is_new_question": false
+    },
+    {
+        "question_id": 3064,
+        "question__title": "Reshape Data: Concatenate",
+        "question__title_slug": "reshape-data-concatenate",
+        "total_acs": 3181,
+        "total_submitted": 3608,
+        "frontend_question_id": 2888,
+        "is_new_question": false
+    },
+    {
+        "question_id": 3063,
+        "question__title": "Method Chaining",
+        "question__title_slug": "method-chaining",
+        "total_acs": 2827,
+        "total_submitted": 3933,
+        "frontend_question_id": 2891,
+        "is_new_question": false
+    },
+    {
+        "question_id": 3062,
+        "question__title": "Create a DataFrame from List",
+        "question__title_slug": "create-a-dataframe-from-list",
+        "total_acs": 6828,
+        "total_submitted": 8476,
+        "frontend_question_id": 2877,
+        "is_new_question": false
+    },
+    {
+        "question_id": 3055,
+        "question__title": "Maximum Odd Binary Number",
+        "question__title_slug": "maximum-odd-binary-number",
+        "total_acs": 29922,
+        "total_submitted": 41464,
+        "frontend_question_id": 2864,
+        "is_new_question": false
+    },
+    {
+        "question_id": 3045,
+        "question__title": "Minimum Right Shifts to Sort the Array",
+        "question__title_slug": "minimum-right-shifts-to-sort-the-array",
+        "total_acs": 27037,
+        "total_submitted": 47296,
+        "frontend_question_id": 2855,
+        "is_new_question": false
+    },
+    {
+        "question_id": 3044,
+        "question__title": "Minimum Operations to Collect Elements",
+        "question__title_slug": "minimum-operations-to-collect-elements",
+        "total_acs": 25909,
+        "total_submitted": 44675,
+        "frontend_question_id": 2869,
+        "is_new_question": false
+    },
+    {
+        "question_id": 3034,
+        "question__title": "Points That Intersect With Cars",
+        "question__title_slug": "points-that-intersect-with-cars",
+        "total_acs": 33542,
+        "total_submitted": 45020,
+        "frontend_question_id": 2848,
+        "is_new_question": false
+    },
+    {
+        "question_id": 3019,
+        "question__title": "Furthest Point From Origin",
+        "question__title_slug": "furthest-point-from-origin",
+        "total_acs": 37835,
+        "total_submitted": 59976,
+        "frontend_question_id": 2833,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2999,
+        "question__title": "Check if Strings Can be Made Equal With Operations I",
+        "question__title_slug": "check-if-strings-can-be-made-equal-with-operations-i",
+        "total_acs": 31511,
+        "total_submitted": 68085,
+        "frontend_question_id": 2839,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2998,
+        "question__title": " Count Symmetric Integers",
+        "question__title_slug": "count-symmetric-integers",
+        "total_acs": 34036,
+        "total_submitted": 45834,
+        "frontend_question_id": 2843,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2977,
+        "question__title": "Check if a String Is an Acronym of Words",
+        "question__title_slug": "check-if-a-string-is-an-acronym-of-words",
+        "total_acs": 53530,
+        "total_submitted": 64506,
+        "frontend_question_id": 2828,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2955,
+        "question__title": "Account Balance After Rounded Purchase",
+        "question__title_slug": "account-balance-after-rounded-purchase",
+        "total_acs": 34656,
+        "total_submitted": 67122,
+        "frontend_question_id": 2806,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2917,
+        "question__title": "Count Pairs Whose Sum is Less than Target",
+        "question__title_slug": "count-pairs-whose-sum-is-less-than-target",
+        "total_acs": 62098,
+        "total_submitted": 71529,
+        "frontend_question_id": 2824,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2902,
+        "question__title": "Max Pair Sum in an Array",
+        "question__title_slug": "max-pair-sum-in-an-array",
+        "total_acs": 35959,
+        "total_submitted": 62366,
+        "frontend_question_id": 2815,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2892,
+        "question__title": "Check if Array is Good",
+        "question__title_slug": "check-if-array-is-good",
+        "total_acs": 38865,
+        "total_submitted": 77662,
+        "frontend_question_id": 2784,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2886,
+        "question__title": "Faulty Keyboard",
+        "question__title_slug": "faulty-keyboard",
+        "total_acs": 47903,
+        "total_submitted": 58381,
+        "frontend_question_id": 2810,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2881,
+        "question__title": "Split Strings by Separator",
+        "question__title_slug": "split-strings-by-separator",
+        "total_acs": 37273,
+        "total_submitted": 52059,
+        "frontend_question_id": 2788,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2876,
+        "question__title": "Number of Employees Who Met the Target",
+        "question__title_slug": "number-of-employees-who-met-the-target",
+        "total_acs": 79866,
+        "total_submitted": 91141,
+        "frontend_question_id": 2798,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2870,
+        "question__title": "Longest Alternating Subarray",
+        "question__title_slug": "longest-alternating-subarray",
+        "total_acs": 19392,
+        "total_submitted": 58784,
+        "frontend_question_id": 2765,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2866,
+        "question__title": "Longest Even Odd Subarray With Threshold",
+        "question__title_slug": "longest-even-odd-subarray-with-threshold",
+        "total_acs": 27048,
+        "total_submitted": 94484,
+        "frontend_question_id": 2760,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2857,
+        "question__title": "Total Distance Traveled",
+        "question__title_slug": "total-distance-traveled",
+        "total_acs": 35038,
+        "total_submitted": 90933,
+        "frontend_question_id": 2739,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2847,
+        "question__title": "Find Maximum Number of String Pairs",
+        "question__title_slug": "find-maximum-number-of-string-pairs",
+        "total_acs": 38363,
+        "total_submitted": 47747,
+        "frontend_question_id": 2744,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2844,
+        "question__title": "Sum of Squares of Special Elements ",
+        "question__title_slug": "sum-of-squares-of-special-elements",
+        "total_acs": 43274,
+        "total_submitted": 54909,
+        "frontend_question_id": 2778,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2836,
+        "question__title": "Neither Minimum nor Maximum",
+        "question__title_slug": "neither-minimum-nor-maximum",
+        "total_acs": 65054,
+        "total_submitted": 84730,
+        "frontend_question_id": 2733,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2831,
+        "question__title": "Number of Beautiful Pairs",
+        "question__title_slug": "number-of-beautiful-pairs",
+        "total_acs": 28068,
+        "total_submitted": 57217,
+        "frontend_question_id": 2748,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2825,
+        "question__title": "Minimize String Length",
+        "question__title_slug": "minimize-string-length",
+        "total_acs": 38058,
+        "total_submitted": 51039,
+        "frontend_question_id": 2716,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2824,
+        "question__title": "Check if The Number is Fascinating",
+        "question__title_slug": "check-if-the-number-is-fascinating",
+        "total_acs": 34240,
+        "total_submitted": 66609,
+        "frontend_question_id": 2729,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2819,
+        "question__title": "Remove Trailing Zeros From a String",
+        "question__title_slug": "remove-trailing-zeros-from-a-string",
+        "total_acs": 44892,
+        "total_submitted": 57357,
+        "frontend_question_id": 2710,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2816,
+        "question__title": "Lexicographically Smallest Palindrome",
+        "question__title_slug": "lexicographically-smallest-palindrome",
+        "total_acs": 33630,
+        "total_submitted": 41757,
+        "frontend_question_id": 2697,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2812,
+        "question__title": "Find the Maximum Achievable Number",
+        "question__title_slug": "find-the-maximum-achievable-number",
+        "total_acs": 48740,
+        "total_submitted": 55072,
+        "frontend_question_id": 2769,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2800,
+        "question__title": "Minimum String Length After Removing Substrings",
+        "question__title_slug": "minimum-string-length-after-removing-substrings",
+        "total_acs": 34863,
+        "total_submitted": 51027,
+        "frontend_question_id": 2696,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2791,
+        "question__title": "Find the Losers of the Circular Game",
+        "question__title_slug": "find-the-losers-of-the-circular-game",
+        "total_acs": 23481,
+        "total_submitted": 48708,
+        "frontend_question_id": 2682,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2785,
+        "question__title": "Semi-Ordered Permutation",
+        "question__title_slug": "semi-ordered-permutation",
+        "total_acs": 27020,
+        "total_submitted": 42888,
+        "frontend_question_id": 2717,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2777,
+        "question__title": "Find the Distinct Difference Array",
+        "question__title_slug": "find-the-distinct-difference-array",
+        "total_acs": 28887,
+        "total_submitted": 37747,
+        "frontend_question_id": 2670,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2767,
+        "question__title": "Maximum Sum With Exactly K Elements ",
+        "question__title_slug": "maximum-sum-with-exactly-k-elements",
+        "total_acs": 46852,
+        "total_submitted": 57475,
+        "frontend_question_id": 2656,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2756,
+        "question__title": "Buy Two Chocolates",
+        "question__title_slug": "buy-two-chocolates",
+        "total_acs": 39321,
+        "total_submitted": 62153,
+        "frontend_question_id": 2706,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2752,
+        "question__title": "Sum Multiples",
+        "question__title_slug": "sum-multiples",
+        "total_acs": 73322,
+        "total_submitted": 86478,
+        "frontend_question_id": 2652,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2748,
+        "question__title": "Calculate Delayed Arrival Time",
+        "question__title_slug": "calculate-delayed-arrival-time",
+        "total_acs": 41673,
+        "total_submitted": 52757,
+        "frontend_question_id": 2651,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2737,
+        "question__title": "Row With Maximum Ones",
+        "question__title_slug": "row-with-maximum-ones",
+        "total_acs": 40125,
+        "total_submitted": 53107,
+        "frontend_question_id": 2643,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2727,
+        "question__title": "Number of Senior Citizens",
+        "question__title_slug": "number-of-senior-citizens",
+        "total_acs": 39365,
+        "total_submitted": 51973,
+        "frontend_question_id": 2678,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2723,
+        "question__title": "Find the Longest Balanced Substring of a Binary String",
+        "question__title_slug": "find-the-longest-balanced-substring-of-a-binary-string",
+        "total_acs": 26050,
+        "total_submitted": 57229,
+        "frontend_question_id": 2609,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2722,
+        "question__title": "Prime In Diagonal",
+        "question__title_slug": "prime-in-diagonal",
+        "total_acs": 32534,
+        "total_submitted": 99509,
+        "frontend_question_id": 2614,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2715,
+        "question__title": "K Items With the Maximum Sum",
+        "question__title_slug": "k-items-with-the-maximum-sum",
+        "total_acs": 31222,
+        "total_submitted": 51124,
+        "frontend_question_id": 2600,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2714,
+        "question__title": "Left and Right Sum Differences",
+        "question__title_slug": "left-and-right-sum-differences",
+        "total_acs": 90512,
+        "total_submitted": 105372,
+        "frontend_question_id": 2574,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2707,
+        "question__title": "Merge Two 2D Arrays by Summing Values",
+        "question__title_slug": "merge-two-2d-arrays-by-summing-values",
+        "total_acs": 33085,
+        "total_submitted": 45320,
+        "frontend_question_id": 2570,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2704,
+        "question__title": "Maximum Difference by Remapping a Digit",
+        "question__title_slug": "maximum-difference-by-remapping-a-digit",
+        "total_acs": 21496,
+        "total_submitted": 36598,
+        "frontend_question_id": 2566,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2698,
+        "question__title": "Find the Array Concatenation Value",
+        "question__title_slug": "find-the-array-concatenation-value",
+        "total_acs": 38366,
+        "total_submitted": 55569,
+        "frontend_question_id": 2562,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2694,
+        "question__title": "Find the Maximum Divisibility Score",
+        "question__title_slug": "find-the-maximum-divisibility-score",
+        "total_acs": 25731,
+        "total_submitted": 53370,
+        "frontend_question_id": 2644,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2692,
+        "question__title": "Take Gifts From the Richest Pile",
+        "question__title_slug": "take-gifts-from-the-richest-pile",
+        "total_acs": 36887,
+        "total_submitted": 56081,
+        "frontend_question_id": 2558,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2684,
+        "question__title": "Determine the Winner of a Bowling Game",
+        "question__title_slug": "determine-the-winner-of-a-bowling-game",
+        "total_acs": 27911,
+        "total_submitted": 82316,
+        "frontend_question_id": 2660,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2679,
+        "question__title": "Count Distinct Numbers on Board",
+        "question__title_slug": "count-distinct-numbers-on-board",
+        "total_acs": 32869,
+        "total_submitted": 55508,
+        "frontend_question_id": 2549,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2675,
+        "question__title": "Find the Width of Columns of a Grid",
+        "question__title_slug": "find-the-width-of-columns-of-a-grid",
+        "total_acs": 22266,
+        "total_submitted": 33803,
+        "frontend_question_id": 2639,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2668,
+        "question__title": "Form Smallest Number From Two Digit Arrays",
+        "question__title_slug": "form-smallest-number-from-two-digit-arrays",
+        "total_acs": 29847,
+        "total_submitted": 56203,
+        "frontend_question_id": 2605,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2663,
+        "question__title": "Distribute Money to Maximum Children",
+        "question__title_slug": "distribute-money-to-maximum-children",
+        "total_acs": 22279,
+        "total_submitted": 118266,
+        "frontend_question_id": 2591,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2659,
+        "question__title": "Number of Even and Odd Bits",
+        "question__title_slug": "number-of-even-and-odd-bits",
+        "total_acs": 35433,
+        "total_submitted": 49850,
+        "frontend_question_id": 2595,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2654,
+        "question__title": "Count the Number of Vowel Strings in Range",
+        "question__title_slug": "count-the-number-of-vowel-strings-in-range",
+        "total_acs": 44900,
+        "total_submitted": 60660,
+        "frontend_question_id": 2586,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2650,
+        "question__title": "Split With Minimum Sum",
+        "question__title_slug": "split-with-minimum-sum",
+        "total_acs": 27166,
+        "total_submitted": 39307,
+        "frontend_question_id": 2578,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2645,
+        "question__title": "Pass the Pillow",
+        "question__title_slug": "pass-the-pillow",
+        "total_acs": 30531,
+        "total_submitted": 67234,
+        "frontend_question_id": 2582,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2639,
+        "question__title": "Separate the Digits in an Array",
+        "question__title_slug": "separate-the-digits-in-an-array",
+        "total_acs": 51743,
+        "total_submitted": 66159,
+        "frontend_question_id": 2553,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2634,
+        "question__title": "Minimum Common Value",
+        "question__title_slug": "minimum-common-value",
+        "total_acs": 47977,
+        "total_submitted": 95020,
+        "frontend_question_id": 2540,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2630,
+        "question__title": "Alternating Digit Sum",
+        "question__title_slug": "alternating-digit-sum",
+        "total_acs": 45986,
+        "total_submitted": 67459,
+        "frontend_question_id": 2544,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2624,
+        "question__title": "Difference Between Element Sum and Digit Sum of an Array",
+        "question__title_slug": "difference-between-element-sum-and-digit-sum-of-an-array",
+        "total_acs": 88355,
+        "total_submitted": 105730,
+        "frontend_question_id": 2535,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2619,
+        "question__title": "Categorize Box According to Criteria",
+        "question__title_slug": "categorize-box-according-to-criteria",
+        "total_acs": 27404,
+        "total_submitted": 79676,
+        "frontend_question_id": 2525,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2614,
+        "question__title": "Maximum Count of Positive Integer and Negative Integer",
+        "question__title_slug": "maximum-count-of-positive-integer-and-negative-integer",
+        "total_acs": 76759,
+        "total_submitted": 107209,
+        "frontend_question_id": 2529,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2608,
+        "question__title": "Count the Digits That Divide a Number",
+        "question__title_slug": "count-the-digits-that-divide-a-number",
+        "total_acs": 59746,
+        "total_submitted": 71598,
+        "frontend_question_id": 2520,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2602,
+        "question__title": "Maximum Enemy Forts That Can Be Captured",
+        "question__title_slug": "maximum-enemy-forts-that-can-be-captured",
+        "total_acs": 19278,
+        "total_submitted": 51292,
+        "frontend_question_id": 2511,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2598,
+        "question__title": "Shortest Distance to Target String in a Circular Array",
+        "question__title_slug": "shortest-distance-to-target-string-in-a-circular-array",
+        "total_acs": 24880,
+        "total_submitted": 51595,
+        "frontend_question_id": 2515,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2594,
+        "question__title": "Count Pairs Of Similar Strings",
+        "question__title_slug": "count-pairs-of-similar-strings",
+        "total_acs": 34365,
+        "total_submitted": 49868,
+        "frontend_question_id": 2506,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2589,
+        "question__title": "Maximum Value of a String in an Array",
+        "question__title_slug": "maximum-value-of-a-string-in-an-array",
+        "total_acs": 33655,
+        "total_submitted": 47059,
+        "frontend_question_id": 2496,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2585,
+        "question__title": "Delete Greatest Value in Each Row",
+        "question__title_slug": "delete-greatest-value-in-each-row",
+        "total_acs": 44742,
+        "total_submitted": 57348,
+        "frontend_question_id": 2500,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2580,
+        "question__title": "Circular Sentence",
+        "question__title_slug": "circular-sentence",
+        "total_acs": 33285,
+        "total_submitted": 52825,
+        "frontend_question_id": 2490,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2575,
+        "question__title": "Minimum Cuts to Divide a Circle",
+        "question__title_slug": "minimum-cuts-to-divide-a-circle",
+        "total_acs": 26253,
+        "total_submitted": 50137,
+        "frontend_question_id": 2481,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2571,
+        "question__title": "Find the Pivot Integer",
+        "question__title_slug": "find-the-pivot-integer",
+        "total_acs": 49922,
+        "total_submitted": 62538,
+        "frontend_question_id": 2485,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2566,
+        "question__title": "Number of Unequal Triplets in Array",
+        "question__title_slug": "number-of-unequal-triplets-in-array",
+        "total_acs": 33475,
+        "total_submitted": 47434,
+        "frontend_question_id": 2475,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2561,
+        "question__title": "Number of Distinct Averages",
+        "question__title_slug": "number-of-distinct-averages",
+        "total_acs": 34577,
+        "total_submitted": 59707,
+        "frontend_question_id": 2465,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2556,
+        "question__title": "Convert the Temperature",
+        "question__title_slug": "convert-the-temperature",
+        "total_acs": 121398,
+        "total_submitted": 137022,
+        "frontend_question_id": 2469,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2551,
+        "question__title": "Apply Operations to an Array",
+        "question__title_slug": "apply-operations-to-an-array",
+        "total_acs": 47685,
+        "total_submitted": 70969,
+        "frontend_question_id": 2460,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2547,
+        "question__title": "Odd String Difference",
+        "question__title_slug": "odd-string-difference",
+        "total_acs": 24587,
+        "total_submitted": 41814,
+        "frontend_question_id": 2451,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2542,
+        "question__title": "Average Value of Even Numbers That Are Divisible by Three",
+        "question__title_slug": "average-value-of-even-numbers-that-are-divisible-by-three",
+        "total_acs": 45246,
+        "total_submitted": 75844,
+        "frontend_question_id": 2455,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2536,
+        "question__title": "Determine if Two Events Have Conflict",
+        "question__title_slug": "determine-if-two-events-have-conflict",
+        "total_acs": 35999,
+        "total_submitted": 71770,
+        "frontend_question_id": 2446,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2532,
+        "question__title": "Remove Letter To Equalize Frequency",
+        "question__title_slug": "remove-letter-to-equalize-frequency",
+        "total_acs": 34368,
+        "total_submitted": 198823,
+        "frontend_question_id": 2423,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2528,
+        "question__title": "Number of Valid Clock Times",
+        "question__title_slug": "number-of-valid-clock-times",
+        "total_acs": 21603,
+        "total_submitted": 49706,
+        "frontend_question_id": 2437,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2524,
+        "question__title": "Largest Positive Integer That Exists With Its Negative",
+        "question__title_slug": "largest-positive-integer-that-exists-with-its-negative",
+        "total_acs": 50030,
+        "total_submitted": 73927,
+        "frontend_question_id": 2441,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2518,
+        "question__title": "The Employee That Worked on the Longest Task",
+        "question__title_slug": "the-employee-that-worked-on-the-longest-task",
+        "total_acs": 30793,
+        "total_submitted": 62610,
+        "frontend_question_id": 2432,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2507,
+        "question__title": "Number of Common Factors",
+        "question__title_slug": "number-of-common-factors",
+        "total_acs": 64021,
+        "total_submitted": 81194,
+        "frontend_question_id": 2427,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2502,
+        "question__title": "Sort the People",
+        "question__title_slug": "sort-the-people",
+        "total_acs": 101138,
+        "total_submitted": 126335,
+        "frontend_question_id": 2418,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2496,
+        "question__title": "Count Days Spent Together",
+        "question__title_slug": "count-days-spent-together",
+        "total_acs": 19721,
+        "total_submitted": 44306,
+        "frontend_question_id": 2409,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2491,
+        "question__title": "Smallest Even Multiple",
+        "question__title_slug": "smallest-even-multiple",
+        "total_acs": 119016,
+        "total_submitted": 136201,
+        "frontend_question_id": 2413,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2486,
+        "question__title": "Most Frequent Even Element",
+        "question__title_slug": "most-frequent-even-element",
+        "total_acs": 63088,
+        "total_submitted": 125516,
+        "frontend_question_id": 2404,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2480,
+        "question__title": "Find Subarrays With Equal Sum",
+        "question__title_slug": "find-subarrays-with-equal-sum",
+        "total_acs": 42028,
+        "total_submitted": 64948,
+        "frontend_question_id": 2395,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2476,
+        "question__title": "Check Distances Between Same Letters",
+        "question__title_slug": "check-distances-between-same-letters",
+        "total_acs": 41270,
+        "total_submitted": 58943,
+        "frontend_question_id": 2399,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2469,
+        "question__title": "Longest Subsequence With Limited Sum",
+        "question__title_slug": "longest-subsequence-with-limited-sum",
+        "total_acs": 93923,
+        "total_submitted": 130866,
+        "frontend_question_id": 2389,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2463,
+        "question__title": "Minimum Recolors to Get K Consecutive Black Blocks",
+        "question__title_slug": "minimum-recolors-to-get-k-consecutive-black-blocks",
+        "total_acs": 42443,
+        "total_submitted": 72921,
+        "frontend_question_id": 2379,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2459,
+        "question__title": "Minimum Hours of Training to Win a Competition",
+        "question__title_slug": "minimum-hours-of-training-to-win-a-competition",
+        "total_acs": 28464,
+        "total_submitted": 69717,
+        "frontend_question_id": 2383,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2454,
+        "question__title": "Largest Local Values in a Matrix",
+        "question__title_slug": "largest-local-values-in-a-matrix",
+        "total_acs": 43816,
+        "total_submitted": 52834,
+        "frontend_question_id": 2373,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2447,
+        "question__title": "Merge Similar Items",
+        "question__title_slug": "merge-similar-items",
+        "total_acs": 45991,
+        "total_submitted": 60947,
+        "frontend_question_id": 2363,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2442,
+        "question__title": "Number of Arithmetic Triplets",
+        "question__title_slug": "number-of-arithmetic-triplets",
+        "total_acs": 95378,
+        "total_submitted": 114280,
+        "frontend_question_id": 2367,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2436,
+        "question__title": "Make Array Zero by Subtracting Equal Amounts",
+        "question__title_slug": "make-array-zero-by-subtracting-equal-amounts",
+        "total_acs": 81939,
+        "total_submitted": 114012,
+        "frontend_question_id": 2357,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2433,
+        "question__title": "Best Poker Hand",
+        "question__title_slug": "best-poker-hand",
+        "total_acs": 36025,
+        "total_submitted": 59836,
+        "frontend_question_id": 2347,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2427,
+        "question__title": "First Letter to Appear Twice",
+        "question__title_slug": "first-letter-to-appear-twice",
+        "total_acs": 88706,
+        "total_submitted": 120353,
+        "frontend_question_id": 2351,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2421,
+        "question__title": "Maximum Number of Pairs in Array",
+        "question__title_slug": "maximum-number-of-pairs-in-array",
+        "total_acs": 57090,
+        "total_submitted": 75671,
+        "frontend_question_id": 2341,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2416,
+        "question__title": "Evaluate Boolean Binary Tree",
+        "question__title_slug": "evaluate-boolean-binary-tree",
+        "total_acs": 57934,
+        "total_submitted": 74372,
+        "frontend_question_id": 2331,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2412,
+        "question__title": "Minimum Amount of Time to Fill Cups",
+        "question__title_slug": "minimum-amount-of-time-to-fill-cups",
+        "total_acs": 41015,
+        "total_submitted": 71845,
+        "frontend_question_id": 2335,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2406,
+        "question__title": "Decode the Message",
+        "question__title_slug": "decode-the-message",
+        "total_acs": 74404,
+        "total_submitted": 88800,
+        "frontend_question_id": 2325,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2401,
+        "question__title": "Count Asterisks",
+        "question__title_slug": "count-asterisks",
+        "total_acs": 55781,
+        "total_submitted": 68364,
+        "frontend_question_id": 2315,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2398,
+        "question__title": "Check if Matrix Is X-Matrix",
+        "question__title_slug": "check-if-matrix-is-x-matrix",
+        "total_acs": 44999,
+        "total_submitted": 68760,
+        "frontend_question_id": 2319,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2391,
+        "question__title": "Strong Password Checker II",
+        "question__title_slug": "strong-password-checker-ii",
+        "total_acs": 35469,
+        "total_submitted": 64439,
+        "frontend_question_id": 2299,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2386,
+        "question__title": "Min Max Game",
+        "question__title_slug": "min-max-game",
+        "total_acs": 41894,
+        "total_submitted": 66342,
+        "frontend_question_id": 2293,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2384,
+        "question__title": "Root Equals Sum of Children",
+        "question__title_slug": "root-equals-sum-of-children",
+        "total_acs": 170640,
+        "total_submitted": 204350,
+        "frontend_question_id": 2236,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2383,
+        "question__title": "Add Two Integers",
+        "question__title_slug": "add-two-integers",
+        "total_acs": 380169,
+        "total_submitted": 436185,
+        "frontend_question_id": 2235,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2377,
+        "question__title": "Check if Number Has Equal Digit Count and Digit Value",
+        "question__title_slug": "check-if-number-has-equal-digit-count-and-digit-value",
+        "total_acs": 47072,
+        "total_submitted": 64865,
+        "frontend_question_id": 2283,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2372,
+        "question__title": "Rearrange Characters to Make Target String",
+        "question__title_slug": "rearrange-characters-to-make-target-string",
+        "total_acs": 34727,
+        "total_submitted": 59841,
+        "frontend_question_id": 2287,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2365,
+        "question__title": "Percentage of Letter in String",
+        "question__title_slug": "percentage-of-letter-in-string",
+        "total_acs": 58762,
+        "total_submitted": 79484,
+        "frontend_question_id": 2278,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2361,
+        "question__title": "Calculate Digit Sum of a String",
+        "question__title_slug": "calculate-digit-sum-of-a-string",
+        "total_acs": 33925,
+        "total_submitted": 51596,
+        "frontend_question_id": 2243,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2350,
+        "question__title": "Find Closest Number to Zero",
+        "question__title_slug": "find-closest-number-to-zero",
+        "total_acs": 46933,
+        "total_submitted": 105298,
+        "frontend_question_id": 2239,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2346,
+        "question__title": "Largest 3-Same-Digit Number in String",
+        "question__title_slug": "largest-3-same-digit-number-in-string",
+        "total_acs": 36995,
+        "total_submitted": 61641,
+        "frontend_question_id": 2264,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2345,
+        "question__title": "Minimum Number of Operations to Convert Time",
+        "question__title_slug": "minimum-number-of-operations-to-convert-time",
+        "total_acs": 36370,
+        "total_submitted": 55959,
+        "frontend_question_id": 2224,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2341,
+        "question__title": "Count Prefixes of a Given String",
+        "question__title_slug": "count-prefixes-of-a-given-string",
+        "total_acs": 50099,
+        "total_submitted": 69126,
+        "frontend_question_id": 2255,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2337,
+        "question__title": "Remove Digit From Number to Maximize Result",
+        "question__title_slug": "remove-digit-from-number-to-maximize-result",
+        "total_acs": 63866,
+        "total_submitted": 141453,
+        "frontend_question_id": 2259,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2331,
+        "question__title": "Intersection of Multiple Arrays",
+        "question__title_slug": "intersection-of-multiple-arrays",
+        "total_acs": 61697,
+        "total_submitted": 90532,
+        "frontend_question_id": 2248,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2327,
+        "question__title": "Largest Number After Digit Swaps by Parity",
+        "question__title_slug": "largest-number-after-digit-swaps-by-parity",
+        "total_acs": 36977,
+        "total_submitted": 60824,
+        "frontend_question_id": 2231,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2323,
+        "question__title": "Minimum Bit Flips to Convert Number",
+        "question__title_slug": "minimum-bit-flips-to-convert-number",
+        "total_acs": 56514,
+        "total_submitted": 68215,
+        "frontend_question_id": 2220,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2320,
+        "question__title": "Find All K-Distant Indices in an Array",
+        "question__title_slug": "find-all-k-distant-indices-in-an-array",
+        "total_acs": 34896,
+        "total_submitted": 53568,
+        "frontend_question_id": 2200,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2316,
+        "question__title": "Count Hills and Valleys in an Array",
+        "question__title_slug": "count-hills-and-valleys-in-an-array",
+        "total_acs": 37196,
+        "total_submitted": 63376,
+        "frontend_question_id": 2210,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2312,
+        "question__title": "Most Frequent Number Following Key In an Array",
+        "question__title_slug": "most-frequent-number-following-key-in-an-array",
+        "total_acs": 30809,
+        "total_submitted": 52061,
+        "frontend_question_id": 2190,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2308,
+        "question__title": "Divide Array Into Equal Pairs",
+        "question__title_slug": "divide-array-into-equal-pairs",
+        "total_acs": 64752,
+        "total_submitted": 88343,
+        "frontend_question_id": 2206,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2304,
+        "question__title": "Cells in a Range on an Excel Sheet",
+        "question__title_slug": "cells-in-a-range-on-an-excel-sheet",
+        "total_acs": 58464,
+        "total_submitted": 69656,
+        "frontend_question_id": 2194,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2298,
+        "question__title": "Count Integers With Even Digit Sum",
+        "question__title_slug": "count-integers-with-even-digit-sum",
+        "total_acs": 50094,
+        "total_submitted": 75739,
+        "frontend_question_id": 2180,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2292,
+        "question__title": "Counting Words With a Given Prefix",
+        "question__title_slug": "counting-words-with-a-given-prefix",
+        "total_acs": 76013,
+        "total_submitted": 98258,
+        "frontend_question_id": 2185,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2288,
+        "question__title": "Count Operations to Obtain Zero",
+        "question__title_slug": "count-operations-to-obtain-zero",
+        "total_acs": 62018,
+        "total_submitted": 83357,
+        "frontend_question_id": 2169,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2283,
+        "question__title": "Sort Even and Odd Indices Independently",
+        "question__title_slug": "sort-even-and-odd-indices-independently",
+        "total_acs": 51418,
+        "total_submitted": 80963,
+        "frontend_question_id": 2164,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2277,
+        "question__title": "Count Equal and Divisible Pairs in an Array",
+        "question__title_slug": "count-equal-and-divisible-pairs-in-an-array",
+        "total_acs": 61655,
+        "total_submitted": 77693,
+        "frontend_question_id": 2176,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2274,
+        "question__title": "Keep Multiplying Found Values by Two",
+        "question__title_slug": "keep-multiplying-found-values-by-two",
+        "total_acs": 77299,
+        "total_submitted": 107931,
+        "frontend_question_id": 2154,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2269,
+        "question__title": "Count Elements With Strictly Smaller and Greater Elements ",
+        "question__title_slug": "count-elements-with-strictly-smaller-and-greater-elements",
+        "total_acs": 49536,
+        "total_submitted": 83509,
+        "frontend_question_id": 2148,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2264,
+        "question__title": "Minimum Sum of Four Digit Number After Splitting Digits",
+        "question__title_slug": "minimum-sum-of-four-digit-number-after-splitting-digits",
+        "total_acs": 104680,
+        "total_submitted": 121461,
+        "frontend_question_id": 2160,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2260,
+        "question__title": "Divide a String Into Groups of Size k",
+        "question__title_slug": "divide-a-string-into-groups-of-size-k",
+        "total_acs": 40503,
+        "total_submitted": 61508,
+        "frontend_question_id": 2138,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2254,
+        "question__title": "Check if Every Row and Column Contains All Numbers",
+        "question__title_slug": "check-if-every-row-and-column-contains-all-numbers",
+        "total_acs": 61813,
+        "total_submitted": 119753,
+        "frontend_question_id": 2133,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2248,
+        "question__title": "Minimum Cost of Buying Candies With Discount",
+        "question__title_slug": "minimum-cost-of-buying-candies-with-discount",
+        "total_acs": 42024,
+        "total_submitted": 69160,
+        "frontend_question_id": 2144,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2243,
+        "question__title": "Check if All A's Appears Before All B's",
+        "question__title_slug": "check-if-all-as-appears-before-all-bs",
+        "total_acs": 63178,
+        "total_submitted": 88699,
+        "frontend_question_id": 2124,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2238,
+        "question__title": "A Number After a Double Reversal",
+        "question__title_slug": "a-number-after-a-double-reversal",
+        "total_acs": 69142,
+        "total_submitted": 88290,
+        "frontend_question_id": 2119,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2235,
+        "question__title": "Capitalize the Title",
+        "question__title_slug": "capitalize-the-title",
+        "total_acs": 52157,
+        "total_submitted": 82830,
+        "frontend_question_id": 2129,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2231,
+        "question__title": "Find First Palindromic String in the Array",
+        "question__title_slug": "find-first-palindromic-string-in-the-array",
+        "total_acs": 103385,
+        "total_submitted": 130939,
+        "frontend_question_id": 2108,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2226,
+        "question__title": "Rings and Rods",
+        "question__title_slug": "rings-and-rods",
+        "total_acs": 62571,
+        "total_submitted": 77447,
+        "frontend_question_id": 2103,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2219,
+        "question__title": "Maximum Number of Words Found in Sentences",
+        "question__title_slug": "maximum-number-of-words-found-in-sentences",
+        "total_acs": 227864,
+        "total_submitted": 263696,
+        "frontend_question_id": 2114,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2215,
+        "question__title": "Finding 3-Digit Even Numbers",
+        "question__title_slug": "finding-3-digit-even-numbers",
+        "total_acs": 26209,
+        "total_submitted": 44574,
+        "frontend_question_id": 2094,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2210,
+        "question__title": "Find Target Indices After Sorting Array",
+        "question__title_slug": "find-target-indices-after-sorting-array",
+        "total_acs": 141660,
+        "total_submitted": 186975,
+        "frontend_question_id": 2089,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2204,
+        "question__title": "Find Subsequence of Length K With the Largest Sum",
+        "question__title_slug": "find-subsequence-of-length-k-with-the-largest-sum",
+        "total_acs": 39679,
+        "total_submitted": 92790,
+        "frontend_question_id": 2099,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2199,
+        "question__title": "Two Furthest Houses With Different Colors",
+        "question__title_slug": "two-furthest-houses-with-different-colors",
+        "total_acs": 46833,
+        "total_submitted": 70355,
+        "frontend_question_id": 2078,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2195,
+        "question__title": "Time Needed to Buy Tickets",
+        "question__title_slug": "time-needed-to-buy-tickets",
+        "total_acs": 51120,
+        "total_submitted": 81477,
+        "frontend_question_id": 2073,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2190,
+        "question__title": "Count Common Words With One Occurrence",
+        "question__title_slug": "count-common-words-with-one-occurrence",
+        "total_acs": 53765,
+        "total_submitted": 77017,
+        "frontend_question_id": 2085,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2186,
+        "question__title": "Count Vowel Substrings of a String",
+        "question__title_slug": "count-vowel-substrings-of-a-string",
+        "total_acs": 32747,
+        "total_submitted": 49008,
+        "frontend_question_id": 2062,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2181,
+        "question__title": "Smallest Index With Equal Value",
+        "question__title_slug": "smallest-index-with-equal-value",
+        "total_acs": 50288,
+        "total_submitted": 69595,
+        "frontend_question_id": 2057,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2177,
+        "question__title": "Check Whether Two Strings are Almost Equivalent",
+        "question__title_slug": "check-whether-two-strings-are-almost-equivalent",
+        "total_acs": 43924,
+        "total_submitted": 69232,
+        "frontend_question_id": 2068,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2173,
+        "question__title": "Number of Valid Words in a Sentence",
+        "question__title_slug": "number-of-valid-words-in-a-sentence",
+        "total_acs": 25122,
+        "total_submitted": 86948,
+        "frontend_question_id": 2047,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2168,
+        "question__title": "Check if Numbers Are Ascending in a Sentence",
+        "question__title_slug": "check-if-numbers-are-ascending-in-a-sentence",
+        "total_acs": 48546,
+        "total_submitted": 71172,
+        "frontend_question_id": 2042,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2163,
+        "question__title": "Kth Distinct String in an Array",
+        "question__title_slug": "kth-distinct-string-in-an-array",
+        "total_acs": 52608,
+        "total_submitted": 72869,
+        "frontend_question_id": 2053,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2159,
+        "question__title": "Two Out of Three",
+        "question__title_slug": "two-out-of-three",
+        "total_acs": 56045,
+        "total_submitted": 75414,
+        "frontend_question_id": 2032,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2154,
+        "question__title": "Minimum Moves to Convert String",
+        "question__title_slug": "minimum-moves-to-convert-string",
+        "total_acs": 31294,
+        "total_submitted": 57568,
+        "frontend_question_id": 2027,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2148,
+        "question__title": "Minimum Number of Moves to Seat Everyone",
+        "question__title_slug": "minimum-number-of-moves-to-seat-everyone",
+        "total_acs": 57878,
+        "total_submitted": 70918,
+        "frontend_question_id": 2037,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2144,
+        "question__title": "Maximum Difference Between Increasing Elements",
+        "question__title_slug": "maximum-difference-between-increasing-elements",
+        "total_acs": 68988,
+        "total_submitted": 125451,
+        "frontend_question_id": 2016,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2137,
+        "question__title": "Final Value of Variable After Performing Operations",
+        "question__title_slug": "final-value-of-variable-after-performing-operations",
+        "total_acs": 288591,
+        "total_submitted": 326005,
+        "frontend_question_id": 2011,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2132,
+        "question__title": "Convert 1D Array Into 2D Array",
+        "question__title_slug": "convert-1d-array-into-2d-array",
+        "total_acs": 69002,
+        "total_submitted": 114633,
+        "frontend_question_id": 2022,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2128,
+        "question__title": "Reverse Prefix of Word",
+        "question__title_slug": "reverse-prefix-of-word",
+        "total_acs": 82060,
+        "total_submitted": 102798,
+        "frontend_question_id": 2000,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2122,
+        "question__title": "Count Special Quadruplets",
+        "question__title_slug": "count-special-quadruplets",
+        "total_acs": 35211,
+        "total_submitted": 58435,
+        "frontend_question_id": 1995,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2121,
+        "question__title": "Find if Path Exists in Graph",
+        "question__title_slug": "find-if-path-exists-in-graph",
+        "total_acs": 273145,
+        "total_submitted": 530026,
+        "frontend_question_id": 1971,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2116,
+        "question__title": "Count Number of Pairs With Absolute Difference K",
+        "question__title_slug": "count-number-of-pairs-with-absolute-difference-k",
+        "total_acs": 117899,
+        "total_submitted": 141912,
+        "frontend_question_id": 2006,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2112,
+        "question__title": "Minimum Difference Between Highest and Lowest of K Scores",
+        "question__title_slug": "minimum-difference-between-highest-and-lowest-of-k-scores",
+        "total_acs": 58232,
+        "total_submitted": 104909,
+        "frontend_question_id": 1984,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2106,
+        "question__title": "Find Greatest Common Divisor of Array",
+        "question__title_slug": "find-greatest-common-divisor-of-array",
+        "total_acs": 103447,
+        "total_submitted": 133768,
+        "frontend_question_id": 1979,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2102,
+        "question__title": "Find the Middle Index in Array",
+        "question__title_slug": "find-the-middle-index-in-array",
+        "total_acs": 76800,
+        "total_submitted": 113906,
+        "frontend_question_id": 1991,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2099,
+        "question__title": "Number of Strings That Appear as Substrings in Word",
+        "question__title_slug": "number-of-strings-that-appear-as-substrings-in-word",
+        "total_acs": 57885,
+        "total_submitted": 72204,
+        "frontend_question_id": 1967,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2093,
+        "question__title": "Check If String Is a Prefix of Array",
+        "question__title_slug": "check-if-string-is-a-prefix-of-array",
+        "total_acs": 43450,
+        "total_submitted": 82103,
+        "frontend_question_id": 1961,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2088,
+        "question__title": "Minimum Time to Type Word Using Special Typewriter",
+        "question__title_slug": "minimum-time-to-type-word-using-special-typewriter",
+        "total_acs": 35640,
+        "total_submitted": 48338,
+        "frontend_question_id": 1974,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2083,
+        "question__title": "Three Divisors",
+        "question__title_slug": "three-divisors",
+        "total_acs": 53548,
+        "total_submitted": 90556,
+        "frontend_question_id": 1952,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2076,
+        "question__title": "Sum of Digits of String After Convert",
+        "question__title_slug": "sum-of-digits-of-string-after-convert",
+        "total_acs": 45961,
+        "total_submitted": 74321,
+        "frontend_question_id": 1945,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2058,
+        "question__title": "Concatenation of Array",
+        "question__title_slug": "concatenation-of-array",
+        "total_acs": 552409,
+        "total_submitted": 617031,
+        "frontend_question_id": 1929,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2053,
+        "question__title": "Check if All Characters Have Equal Number of Occurrences",
+        "question__title_slug": "check-if-all-characters-have-equal-number-of-occurrences",
+        "total_acs": 76421,
+        "total_submitted": 99213,
+        "frontend_question_id": 1941,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2048,
+        "question__title": "Build Array from Permutation",
+        "question__title_slug": "build-array-from-permutation",
+        "total_acs": 410646,
+        "total_submitted": 458827,
+        "frontend_question_id": 1920,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2042,
+        "question__title": "Maximum Product Difference Between Two Pairs",
+        "question__title_slug": "maximum-product-difference-between-two-pairs",
+        "total_acs": 99947,
+        "total_submitted": 123386,
+        "frontend_question_id": 1913,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2037,
+        "question__title": "Count Square Sum Triples",
+        "question__title_slug": "count-square-sum-triples",
+        "total_acs": 37870,
+        "total_submitted": 56070,
+        "frontend_question_id": 1925,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2032,
+        "question__title": "Largest Odd Number in String",
+        "question__title_slug": "largest-odd-number-in-string",
+        "total_acs": 90504,
+        "total_submitted": 156455,
+        "frontend_question_id": 1903,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2025,
+        "question__title": "Redistribute Characters to Make All Strings Equal",
+        "question__title_slug": "redistribute-characters-to-make-all-strings-equal",
+        "total_acs": 32377,
+        "total_submitted": 54817,
+        "frontend_question_id": 1897,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2020,
+        "question__title": "Remove One Element to Make the Array Strictly Increasing",
+        "question__title_slug": "remove-one-element-to-make-the-array-strictly-increasing",
+        "total_acs": 54417,
+        "total_submitted": 203787,
+        "frontend_question_id": 1909,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2015,
+        "question__title": "Determine Whether Matrix Can Be Obtained By Rotation",
+        "question__title_slug": "determine-whether-matrix-can-be-obtained-by-rotation",
+        "total_acs": 60272,
+        "total_submitted": 107115,
+        "frontend_question_id": 1886,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2010,
+        "question__title": "Check if Word Equals Summation of Two Words",
+        "question__title_slug": "check-if-word-equals-summation-of-two-words",
+        "total_acs": 57712,
+        "total_submitted": 78311,
+        "frontend_question_id": 1880,
+        "is_new_question": false
+    },
+    {
+        "question_id": 2005,
+        "question__title": "Check if All the Integers in a Range Are Covered",
+        "question__title_slug": "check-if-all-the-integers-in-a-range-are-covered",
+        "total_acs": 36032,
+        "total_submitted": 72243,
+        "frontend_question_id": 1893,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1999,
+        "question__title": "Longer Contiguous Segments of Ones than Zeros",
+        "question__title_slug": "longer-contiguous-segments-of-ones-than-zeros",
+        "total_acs": 42336,
+        "total_submitted": 70049,
+        "frontend_question_id": 1869,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1993,
+        "question__title": "Sum of All Subset XOR Totals",
+        "question__title_slug": "sum-of-all-subset-xor-totals",
+        "total_acs": 64366,
+        "total_submitted": 79698,
+        "frontend_question_id": 1863,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1987,
+        "question__title": "Substrings of Size Three with Distinct Characters",
+        "question__title_slug": "substrings-of-size-three-with-distinct-characters",
+        "total_acs": 96409,
+        "total_submitted": 133433,
+        "frontend_question_id": 1876,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1983,
+        "question__title": "Maximum Population Year",
+        "question__title_slug": "maximum-population-year",
+        "total_acs": 56620,
+        "total_submitted": 94011,
+        "frontend_question_id": 1854,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1975,
+        "question__title": "Minimum Distance to the Target Element",
+        "question__title_slug": "minimum-distance-to-the-target-element",
+        "total_acs": 38111,
+        "total_submitted": 68068,
+        "frontend_question_id": 1848,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1970,
+        "question__title": "Sorting the Sentence",
+        "question__title_slug": "sorting-the-sentence",
+        "total_acs": 135565,
+        "total_submitted": 163021,
+        "frontend_question_id": 1859,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1965,
+        "question__title": "Sum of Digits in Base K",
+        "question__title_slug": "sum-of-digits-in-base-k",
+        "total_acs": 45823,
+        "total_submitted": 59388,
+        "frontend_question_id": 1837,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1960,
+        "question__title": "Check if the Sentence Is Pangram",
+        "question__title_slug": "check-if-the-sentence-is-pangram",
+        "total_acs": 272660,
+        "total_submitted": 328161,
+        "frontend_question_id": 1832,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1954,
+        "question__title": "Replace All Digits with Characters",
+        "question__title_slug": "replace-all-digits-with-characters",
+        "total_acs": 72146,
+        "total_submitted": 89537,
+        "frontend_question_id": 1844,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1950,
+        "question__title": "Sign of the Product of an Array",
+        "question__title_slug": "sign-of-the-product-of-an-array",
+        "total_acs": 303818,
+        "total_submitted": 465307,
+        "frontend_question_id": 1822,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1944,
+        "question__title": "Truncate Sentence",
+        "question__title_slug": "truncate-sentence",
+        "total_acs": 129906,
+        "total_submitted": 154616,
+        "frontend_question_id": 1816,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1938,
+        "question__title": "Minimum Operations to Make the Array Increasing",
+        "question__title_slug": "minimum-operations-to-make-the-array-increasing",
+        "total_acs": 79371,
+        "total_submitted": 100821,
+        "frontend_question_id": 1827,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1933,
+        "question__title": "Number of Different Integers in a String",
+        "question__title_slug": "number-of-different-integers-in-a-string",
+        "total_acs": 41375,
+        "total_submitted": 111750,
+        "frontend_question_id": 1805,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1927,
+        "question__title": "Maximum Ascending Subarray Sum",
+        "question__title_slug": "maximum-ascending-subarray-sum",
+        "total_acs": 47978,
+        "total_submitted": 76701,
+        "frontend_question_id": 1800,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1920,
+        "question__title": "Determine Color of a Chessboard Square",
+        "question__title_slug": "determine-color-of-a-chessboard-square",
+        "total_acs": 68186,
+        "total_submitted": 87405,
+        "frontend_question_id": 1812,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1916,
+        "question__title": "Find Center of Star Graph",
+        "question__title_slug": "find-center-of-star-graph",
+        "total_acs": 158756,
+        "total_submitted": 190110,
+        "frontend_question_id": 1791,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1915,
+        "question__title": "Check if One String Swap Can Make Strings Equal",
+        "question__title_slug": "check-if-one-string-swap-can-make-strings-equal",
+        "total_acs": 93713,
+        "total_submitted": 206613,
+        "frontend_question_id": 1790,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1910,
+        "question__title": "Check if Binary String Has at Most One Segment of Ones",
+        "question__title_slug": "check-if-binary-string-has-at-most-one-segment-of-ones",
+        "total_acs": 37231,
+        "total_submitted": 94338,
+        "frontend_question_id": 1784,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1904,
+        "question__title": "Second Largest Digit in a String",
+        "question__title_slug": "second-largest-digit-in-a-string",
+        "total_acs": 46786,
+        "total_submitted": 94148,
+        "frontend_question_id": 1796,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1899,
+        "question__title": "Count Items Matching a Rule",
+        "question__title_slug": "count-items-matching-a-rule",
+        "total_acs": 184850,
+        "total_submitted": 218646,
+        "frontend_question_id": 1773,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1894,
+        "question__title": "Merge Strings Alternately",
+        "question__title_slug": "merge-strings-alternately",
+        "total_acs": 448786,
+        "total_submitted": 567017,
+        "frontend_question_id": 1768,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1888,
+        "question__title": "Find Nearest Point That Has the Same X or Y Coordinate",
+        "question__title_slug": "find-nearest-point-that-has-the-same-x-or-y-coordinate",
+        "total_acs": 104717,
+        "total_submitted": 154786,
+        "frontend_question_id": 1779,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1884,
+        "question__title": "Minimum Changes To Make Alternating Binary String",
+        "question__title_slug": "minimum-changes-to-make-alternating-binary-string",
+        "total_acs": 38186,
+        "total_submitted": 65772,
+        "frontend_question_id": 1758,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1878,
+        "question__title": "Check if Array Is Sorted and Rotated",
+        "question__title_slug": "check-if-array-is-sorted-and-rotated",
+        "total_acs": 141758,
+        "total_submitted": 279729,
+        "frontend_question_id": 1752,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1873,
+        "question__title": "Longest Nice Substring",
+        "question__title_slug": "longest-nice-substring",
+        "total_acs": 44611,
+        "total_submitted": 73664,
+        "frontend_question_id": 1763,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1858,
+        "question__title": "Latest Time by Replacing Hidden Digits",
+        "question__title_slug": "latest-time-by-replacing-hidden-digits",
+        "total_acs": 32070,
+        "total_submitted": 75606,
+        "frontend_question_id": 1736,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1848,
+        "question__title": "Sum of Unique Elements",
+        "question__title_slug": "sum-of-unique-elements",
+        "total_acs": 137238,
+        "total_submitted": 178861,
+        "frontend_question_id": 1748,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1844,
+        "question__title": "Maximum Number of Balls in a Box",
+        "question__title_slug": "maximum-number-of-balls-in-a-box",
+        "total_acs": 57221,
+        "total_submitted": 77951,
+        "frontend_question_id": 1742,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1843,
+        "question__title": "Number Of Rectangles That Can Form The Largest Square",
+        "question__title_slug": "number-of-rectangles-that-can-form-the-largest-square",
+        "total_acs": 62677,
+        "total_submitted": 79764,
+        "frontend_question_id": 1725,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1839,
+        "question__title": "Decode XORed Array",
+        "question__title_slug": "decode-xored-array",
+        "total_acs": 130052,
+        "total_submitted": 151460,
+        "frontend_question_id": 1720,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1833,
+        "question__title": "Find the Highest Altitude",
+        "question__title_slug": "find-the-highest-altitude",
+        "total_acs": 266307,
+        "total_submitted": 322899,
+        "frontend_question_id": 1732,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1829,
+        "question__title": "Maximum Units on a Truck",
+        "question__title_slug": "maximum-units-on-a-truck",
+        "total_acs": 281290,
+        "total_submitted": 382004,
+        "frontend_question_id": 1710,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1823,
+        "question__title": "Determine if String Halves Are Alike",
+        "question__title_slug": "determine-if-string-halves-are-alike",
+        "total_acs": 200927,
+        "total_submitted": 259480,
+        "frontend_question_id": 1704,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1817,
+        "question__title": "Calculate Money in Leetcode Bank",
+        "question__title_slug": "calculate-money-in-leetcode-bank",
+        "total_acs": 44747,
+        "total_submitted": 66792,
+        "frontend_question_id": 1716,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1812,
+        "question__title": "Reformat Phone Number",
+        "question__title_slug": "reformat-phone-number",
+        "total_acs": 33861,
+        "total_submitted": 51949,
+        "frontend_question_id": 1694,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1806,
+        "question__title": "Count of Matches in Tournament",
+        "question__title_slug": "count-of-matches-in-tournament",
+        "total_acs": 112032,
+        "total_submitted": 134945,
+        "frontend_question_id": 1688,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1802,
+        "question__title": "Number of Students Unable to Eat Lunch",
+        "question__title_slug": "number-of-students-unable-to-eat-lunch",
+        "total_acs": 82395,
+        "total_submitted": 117495,
+        "frontend_question_id": 1700,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1797,
+        "question__title": "Goal Parser Interpretation",
+        "question__title_slug": "goal-parser-interpretation",
+        "total_acs": 212182,
+        "total_submitted": 244414,
+        "frontend_question_id": 1678,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1791,
+        "question__title": "Richest Customer Wealth",
+        "question__title_slug": "richest-customer-wealth",
+        "total_acs": 725059,
+        "total_submitted": 828271,
+        "frontend_question_id": 1672,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1786,
+        "question__title": "Count the Number of Consistent Strings",
+        "question__title_slug": "count-the-number-of-consistent-strings",
+        "total_acs": 149442,
+        "total_submitted": 181014,
+        "frontend_question_id": 1684,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1781,
+        "question__title": "Check If Two String Arrays are Equivalent",
+        "question__title_slug": "check-if-two-string-arrays-are-equivalent",
+        "total_acs": 308028,
+        "total_submitted": 367334,
+        "frontend_question_id": 1662,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1775,
+        "question__title": "Design an Ordered Stream",
+        "question__title_slug": "design-an-ordered-stream",
+        "total_acs": 76197,
+        "total_submitted": 90133,
+        "frontend_question_id": 1656,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1769,
+        "question__title": "Get Maximum in Generated Array",
+        "question__title_slug": "get-maximum-in-generated-array",
+        "total_acs": 100623,
+        "total_submitted": 200442,
+        "frontend_question_id": 1646,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1764,
+        "question__title": "Maximum Repeating Substring",
+        "question__title_slug": "maximum-repeating-substring",
+        "total_acs": 40204,
+        "total_submitted": 103981,
+        "frontend_question_id": 1668,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1760,
+        "question__title": "Check Array Formation Through Concatenation",
+        "question__title_slug": "check-array-formation-through-concatenation",
+        "total_acs": 78213,
+        "total_submitted": 138892,
+        "frontend_question_id": 1640,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1755,
+        "question__title": "Defuse the Bomb",
+        "question__title_slug": "defuse-the-bomb",
+        "total_acs": 34963,
+        "total_submitted": 55123,
+        "frontend_question_id": 1652,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1751,
+        "question__title": "Slowest Key",
+        "question__title_slug": "slowest-key",
+        "total_acs": 93684,
+        "total_submitted": 158536,
+        "frontend_question_id": 1629,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1746,
+        "question__title": "Largest Substring Between Two Equal Characters",
+        "question__title_slug": "largest-substring-between-two-equal-characters",
+        "total_acs": 46802,
+        "total_submitted": 79243,
+        "frontend_question_id": 1624,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1741,
+        "question__title": "Sort Array by Increasing Frequency",
+        "question__title_slug": "sort-array-by-increasing-frequency",
+        "total_acs": 108734,
+        "total_submitted": 154167,
+        "frontend_question_id": 1636,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1737,
+        "question__title": "Maximum Nesting Depth of the Parentheses",
+        "question__title_slug": "maximum-nesting-depth-of-the-parentheses",
+        "total_acs": 158036,
+        "total_submitted": 193734,
+        "frontend_question_id": 1614,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1730,
+        "question__title": "Special Array With X Elements Greater Than or Equal X",
+        "question__title_slug": "special-array-with-x-elements-greater-than-or-equal-x",
+        "total_acs": 74165,
+        "total_submitted": 123664,
+        "frontend_question_id": 1608,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1720,
+        "question__title": "Crawler Log Folder",
+        "question__title_slug": "crawler-log-folder",
+        "total_acs": 67766,
+        "total_submitted": 104758,
+        "frontend_question_id": 1598,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1714,
+        "question__title": "Rearrange Spaces Between Words",
+        "question__title_slug": "rearrange-spaces-between-words",
+        "total_acs": 51778,
+        "total_submitted": 119419,
+        "frontend_question_id": 1592,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1708,
+        "question__title": "Design Parking System",
+        "question__title_slug": "design-parking-system",
+        "total_acs": 256049,
+        "total_submitted": 290421,
+        "frontend_question_id": 1603,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1704,
+        "question__title": "Special Positions in a Binary Matrix",
+        "question__title_slug": "special-positions-in-a-binary-matrix",
+        "total_acs": 45093,
+        "total_submitted": 69277,
+        "frontend_question_id": 1582,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1698,
+        "question__title": "Replace All ?'s to Avoid Consecutive Repeating Characters",
+        "question__title_slug": "replace-all-s-to-avoid-consecutive-repeating-characters",
+        "total_acs": 56065,
+        "total_submitted": 118863,
+        "frontend_question_id": 1576,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1693,
+        "question__title": "Sum of All Odd Length Subarrays",
+        "question__title_slug": "sum-of-all-odd-length-subarrays",
+        "total_acs": 176969,
+        "total_submitted": 212719,
+        "frontend_question_id": 1588,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1689,
+        "question__title": "Detect Pattern of Length M Repeated K or More Times",
+        "question__title_slug": "detect-pattern-of-length-m-repeated-k-or-more-times",
+        "total_acs": 31906,
+        "total_submitted": 73784,
+        "frontend_question_id": 1566,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1682,
+        "question__title": "Most Visited Sector in a Circular Track",
+        "question__title_slug": "most-visited-sector-in-a-circular-track",
+        "total_acs": 29134,
+        "total_submitted": 49919,
+        "frontend_question_id": 1560,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1677,
+        "question__title": "Matrix Diagonal Sum",
+        "question__title_slug": "matrix-diagonal-sum",
+        "total_acs": 305495,
+        "total_submitted": 369460,
+        "frontend_question_id": 1572,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1666,
+        "question__title": "Make The String Great",
+        "question__title_slug": "make-the-string-great",
+        "total_acs": 152488,
+        "total_submitted": 241682,
+        "frontend_question_id": 1544,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1660,
+        "question__title": "Thousand Separator",
+        "question__title_slug": "thousand-separator",
+        "total_acs": 46824,
+        "total_submitted": 86735,
+        "frontend_question_id": 1556,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1656,
+        "question__title": "Count Good Triplets",
+        "question__title_slug": "count-good-triplets",
+        "total_acs": 106836,
+        "total_submitted": 131900,
+        "frontend_question_id": 1534,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1651,
+        "question__title": "Shuffle String",
+        "question__title_slug": "shuffle-string",
+        "total_acs": 334480,
+        "total_submitted": 395111,
+        "frontend_question_id": 1528,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1646,
+        "question__title": "Kth Missing Positive Number",
+        "question__title_slug": "kth-missing-positive-number",
+        "total_acs": 347200,
+        "total_submitted": 587662,
+        "frontend_question_id": 1539,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1642,
+        "question__title": "Water Bottles",
+        "question__title_slug": "water-bottles",
+        "total_acs": 68608,
+        "total_submitted": 113352,
+        "frontend_question_id": 1518,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1635,
+        "question__title": "Number of Good Pairs",
+        "question__title_slug": "number-of-good-pairs",
+        "total_acs": 629416,
+        "total_submitted": 707562,
+        "frontend_question_id": 1512,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1630,
+        "question__title": "Count Odd Numbers in an Interval Range",
+        "question__title_slug": "count-odd-numbers-in-an-interval-range",
+        "total_acs": 319127,
+        "total_submitted": 642015,
+        "frontend_question_id": 1523,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1626,
+        "question__title": "Can Make Arithmetic Progression From Sequence",
+        "question__title_slug": "can-make-arithmetic-progression-from-sequence",
+        "total_acs": 226701,
+        "total_submitted": 324610,
+        "frontend_question_id": 1502,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1619,
+        "question__title": "Path Crossing",
+        "question__title_slug": "path-crossing",
+        "total_acs": 51989,
+        "total_submitted": 92440,
+        "frontend_question_id": 1496,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1610,
+        "question__title": "XOR Operation in an Array",
+        "question__title_slug": "xor-operation-in-an-array",
+        "total_acs": 172471,
+        "total_submitted": 202367,
+        "frontend_question_id": 1486,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1603,
+        "question__title": "Running Sum of 1d Array",
+        "question__title_slug": "running-sum-of-1d-array",
+        "total_acs": 1638531,
+        "total_submitted": 1891087,
+        "frontend_question_id": 1480,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1584,
+        "question__title": "Average Salary Excluding the Minimum and Maximum Salary",
+        "question__title_slug": "average-salary-excluding-the-minimum-and-maximum-salary",
+        "total_acs": 323147,
+        "total_submitted": 509382,
+        "frontend_question_id": 1491,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1580,
+        "question__title": "Shuffle the Array",
+        "question__title_slug": "shuffle-the-array",
+        "total_acs": 597276,
+        "total_submitted": 675352,
+        "frontend_question_id": 1470,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1574,
+        "question__title": "Maximum Product of Two Elements in an Array",
+        "question__title_slug": "maximum-product-of-two-elements-in-an-array",
+        "total_acs": 217223,
+        "total_submitted": 269675,
+        "frontend_question_id": 1464,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1570,
+        "question__title": "Final Prices With a Special Discount in a Shop",
+        "question__title_slug": "final-prices-with-a-special-discount-in-a-shop",
+        "total_acs": 125361,
+        "total_submitted": 163138,
+        "frontend_question_id": 1475,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1566,
+        "question__title": "Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+        "question__title_slug": "check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence",
+        "total_acs": 70476,
+        "total_submitted": 109891,
+        "frontend_question_id": 1455,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1560,
+        "question__title": "Number of Students Doing Homework at a Given Time",
+        "question__title_slug": "number-of-students-doing-homework-at-a-given-time",
+        "total_acs": 111816,
+        "total_submitted": 147951,
+        "frontend_question_id": 1450,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1556,
+        "question__title": "Make Two Arrays Equal by Reversing Subarrays",
+        "question__title_slug": "make-two-arrays-equal-by-reversing-subarrays",
+        "total_acs": 115138,
+        "total_submitted": 160149,
+        "frontend_question_id": 1460,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1548,
+        "question__title": "Check If All 1's Are at Least Length K Places Away",
+        "question__title_slug": "check-if-all-1s-are-at-least-length-k-places-away",
+        "total_acs": 71860,
+        "total_submitted": 123696,
+        "frontend_question_id": 1437,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1547,
+        "question__title": "Destination City",
+        "question__title_slug": "destination-city",
+        "total_acs": 136883,
+        "total_submitted": 177591,
+        "frontend_question_id": 1436,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1542,
+        "question__title": "Consecutive Characters",
+        "question__title_slug": "consecutive-characters",
+        "total_acs": 150429,
+        "total_submitted": 248425,
+        "frontend_question_id": 1446,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1537,
+        "question__title": "Maximum Score After Splitting a String",
+        "question__title_slug": "maximum-score-after-splitting-a-string",
+        "total_acs": 49841,
+        "total_submitted": 86041,
+        "frontend_question_id": 1422,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1532,
+        "question__title": "Reformat The String",
+        "question__title_slug": "reformat-the-string",
+        "total_acs": 53585,
+        "total_submitted": 100162,
+        "frontend_question_id": 1417,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1528,
+        "question__title": "Kids With the Greatest Number of Candies",
+        "question__title_slug": "kids-with-the-greatest-number-of-candies",
+        "total_acs": 642320,
+        "total_submitted": 735930,
+        "frontend_question_id": 1431,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1524,
+        "question__title": "String Matching in an Array",
+        "question__title_slug": "string-matching-in-an-array",
+        "total_acs": 78005,
+        "total_submitted": 122372,
+        "frontend_question_id": 1408,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1519,
+        "question__title": "Minimum Subsequence in Non-Increasing Order",
+        "question__title_slug": "minimum-subsequence-in-non-increasing-order",
+        "total_acs": 66917,
+        "total_submitted": 92402,
+        "frontend_question_id": 1403,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1514,
+        "question__title": "Minimum Value to Get Positive Step by Step Sum",
+        "question__title_slug": "minimum-value-to-get-positive-step-by-step-sum",
+        "total_acs": 118251,
+        "total_submitted": 178014,
+        "frontend_question_id": 1413,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1510,
+        "question__title": "Find Lucky Integer in an Array",
+        "question__title_slug": "find-lucky-integer-in-an-array",
+        "total_acs": 106551,
+        "total_submitted": 162317,
+        "frontend_question_id": 1394,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1505,
+        "question__title": "Create Target Array in the Given Order",
+        "question__title_slug": "create-target-array-in-the-given-order",
+        "total_acs": 218779,
+        "total_submitted": 255171,
+        "frontend_question_id": 1389,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1500,
+        "question__title": "Count Largest Group",
+        "question__title_slug": "count-largest-group",
+        "total_acs": 41370,
+        "total_submitted": 62080,
+        "frontend_question_id": 1399,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1498,
+        "question__title": "Find a Corresponding Node of a Binary Tree in a Clone of That Tree",
+        "question__title_slug": "find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
+        "total_acs": 208377,
+        "total_submitted": 242126,
+        "frontend_question_id": 1379,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1496,
+        "question__title": "Lucky Numbers in a Matrix",
+        "question__title_slug": "lucky-numbers-in-a-matrix",
+        "total_acs": 94462,
+        "total_submitted": 133145,
+        "frontend_question_id": 1380,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1490,
+        "question__title": "Generate a String With Characters That Have Odd Counts",
+        "question__title_slug": "generate-a-string-with-characters-that-have-odd-counts",
+        "total_acs": 85326,
+        "total_submitted": 110008,
+        "frontend_question_id": 1374,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1486,
+        "question__title": "Find the Distance Value Between Two Arrays",
+        "question__title_slug": "find-the-distance-value-between-two-arrays",
+        "total_acs": 90996,
+        "total_submitted": 134997,
+        "frontend_question_id": 1385,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1482,
+        "question__title": "How Many Numbers Are Smaller Than the Current Number",
+        "question__title_slug": "how-many-numbers-are-smaller-than-the-current-number",
+        "total_acs": 487268,
+        "total_submitted": 563126,
+        "frontend_question_id": 1365,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1476,
+        "question__title": "Count Negative Numbers in a Sorted Matrix",
+        "question__title_slug": "count-negative-numbers-in-a-sorted-matrix",
+        "total_acs": 368715,
+        "total_submitted": 477261,
+        "frontend_question_id": 1351,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1472,
+        "question__title": "Increasing Decreasing String",
+        "question__title_slug": "increasing-decreasing-string",
+        "total_acs": 70466,
+        "total_submitted": 92213,
+        "frontend_question_id": 1370,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1468,
+        "question__title": "Check If N and Its Double Exist",
+        "question__title_slug": "check-if-n-and-its-double-exist",
+        "total_acs": 312653,
+        "total_submitted": 850096,
+        "frontend_question_id": 1346,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1463,
+        "question__title": "The K Weakest Rows in a Matrix",
+        "question__title_slug": "the-k-weakest-rows-in-a-matrix",
+        "total_acs": 339589,
+        "total_submitted": 462384,
+        "frontend_question_id": 1337,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1458,
+        "question__title": "Sort Integers by The Number of 1 Bits",
+        "question__title_slug": "sort-integers-by-the-number-of-1-bits",
+        "total_acs": 128862,
+        "total_submitted": 174857,
+        "frontend_question_id": 1356,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1454,
+        "question__title": "Remove Palindromic Subsequences",
+        "question__title_slug": "remove-palindromic-subsequences",
+        "total_acs": 126352,
+        "total_submitted": 165614,
+        "frontend_question_id": 1332,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1448,
+        "question__title": "Maximum 69 Number",
+        "question__title_slug": "maximum-69-number",
+        "total_acs": 236645,
+        "total_submitted": 288608,
+        "frontend_question_id": 1323,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1444,
+        "question__title": "Number of Steps to Reduce a Number to Zero",
+        "question__title_slug": "number-of-steps-to-reduce-a-number-to-zero",
+        "total_acs": 587946,
+        "total_submitted": 692945,
+        "frontend_question_id": 1342,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1440,
+        "question__title": "Convert Integer to the Sum of Two No-Zero Integers",
+        "question__title_slug": "convert-integer-to-the-sum-of-two-no-zero-integers",
+        "total_acs": 41662,
+        "total_submitted": 76512,
+        "frontend_question_id": 1317,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1434,
+        "question__title": "Decrypt String from Alphabet to Integer Mapping",
+        "question__title_slug": "decrypt-string-from-alphabet-to-integer-mapping",
+        "total_acs": 115116,
+        "total_submitted": 144644,
+        "frontend_question_id": 1309,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1430,
+        "question__title": "Find the K-Beauty of a Number",
+        "question__title_slug": "find-the-k-beauty-of-a-number",
+        "total_acs": 45982,
+        "total_submitted": 78623,
+        "frontend_question_id": 2269,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1426,
+        "question__title": "Find N Unique Integers Sum up to Zero",
+        "question__title_slug": "find-n-unique-integers-sum-up-to-zero",
+        "total_acs": 199728,
+        "total_submitted": 261034,
+        "frontend_question_id": 1304,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1421,
+        "question__title": "Find Numbers with Even Number of Digits",
+        "question__title_slug": "find-numbers-with-even-number-of-digits",
+        "total_acs": 606659,
+        "total_submitted": 787628,
+        "frontend_question_id": 1295,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1411,
+        "question__title": "Convert Binary Number in a Linked List to Integer",
+        "question__title_slug": "convert-binary-number-in-a-linked-list-to-integer",
+        "total_acs": 422205,
+        "total_submitted": 518452,
+        "frontend_question_id": 1290,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1406,
+        "question__title": "Subtract the Product and Sum of Digits of an Integer",
+        "question__title_slug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+        "total_acs": 434394,
+        "total_submitted": 502962,
+        "frontend_question_id": 1281,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1400,
+        "question__title": "Find Winner on a Tic Tac Toe Game",
+        "question__title_slug": "find-winner-on-a-tic-tac-toe-game",
+        "total_acs": 112357,
+        "total_submitted": 207759,
+        "frontend_question_id": 1275,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1395,
+        "question__title": "Minimum Time Visiting All Points",
+        "question__title_slug": "minimum-time-visiting-all-points",
+        "total_acs": 143087,
+        "total_submitted": 180980,
+        "frontend_question_id": 1266,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1392,
+        "question__title": "Find the Difference of Two Arrays",
+        "question__title_slug": "find-the-difference-of-two-arrays",
+        "total_acs": 214479,
+        "total_submitted": 273881,
+        "frontend_question_id": 2215,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1386,
+        "question__title": "Shift 2D Grid",
+        "question__title_slug": "shift-2d-grid",
+        "total_acs": 100171,
+        "total_submitted": 148519,
+        "frontend_question_id": 1260,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1382,
+        "question__title": "Calculate Amount Paid in Taxes",
+        "question__title_slug": "calculate-amount-paid-in-taxes",
+        "total_acs": 32626,
+        "total_submitted": 50695,
+        "frontend_question_id": 2303,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1378,
+        "question__title": "Cells with Odd Values in a Matrix",
+        "question__title_slug": "cells-with-odd-values-in-a-matrix",
+        "total_acs": 102972,
+        "total_submitted": 131232,
+        "frontend_question_id": 1252,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1363,
+        "question__title": "Greatest English Letter in Upper and Lower Case",
+        "question__title_slug": "greatest-english-letter-in-upper-and-lower-case",
+        "total_acs": 45588,
+        "total_submitted": 65955,
+        "frontend_question_id": 2309,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1353,
+        "question__title": "Find Resultant Array After Removing Anagrams",
+        "question__title_slug": "find-resultant-array-after-removing-anagrams",
+        "total_acs": 48635,
+        "total_submitted": 84140,
+        "frontend_question_id": 2273,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1349,
+        "question__title": "Check If It Is a Straight Line",
+        "question__title_slug": "check-if-it-is-a-straight-line",
+        "total_acs": 241606,
+        "total_submitted": 608108,
+        "frontend_question_id": 1232,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1341,
+        "question__title": "Split a String in Balanced Strings",
+        "question__title_slug": "split-a-string-in-balanced-strings",
+        "total_acs": 272202,
+        "total_submitted": 318047,
+        "frontend_question_id": 1221,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1329,
+        "question__title": "Minimum Cost to Move Chips to The Same Position",
+        "question__title_slug": "minimum-cost-to-move-chips-to-the-same-position",
+        "total_acs": 120148,
+        "total_submitted": 167413,
+        "frontend_question_id": 1217,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1319,
+        "question__title": "Unique Number of Occurrences",
+        "question__title_slug": "unique-number-of-occurrences",
+        "total_acs": 361053,
+        "total_submitted": 486171,
+        "frontend_question_id": 1207,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1306,
+        "question__title": "Minimum Absolute Difference",
+        "question__title_slug": "minimum-absolute-difference",
+        "total_acs": 172642,
+        "total_submitted": 248608,
+        "frontend_question_id": 1200,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1302,
+        "question__title": "Delete Characters to Make Fancy String",
+        "question__title_slug": "delete-characters-to-make-fancy-string",
+        "total_acs": 31343,
+        "total_submitted": 54762,
+        "frontend_question_id": 1957,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1297,
+        "question__title": "Maximum Number of Balloons",
+        "question__title_slug": "maximum-number-of-balloons",
+        "total_acs": 170953,
+        "total_submitted": 283709,
+        "frontend_question_id": 1189,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1293,
+        "question__title": "Three Consecutive Odds",
+        "question__title_slug": "three-consecutive-odds",
+        "total_acs": 74677,
+        "total_submitted": 118388,
+        "frontend_question_id": 1550,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1289,
+        "question__title": "Day of the Week",
+        "question__title_slug": "day-of-the-week",
+        "total_acs": 59022,
+        "total_submitted": 103117,
+        "frontend_question_id": 1185,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1287,
+        "question__title": "Distance Between Bus Stops",
+        "question__title_slug": "distance-between-bus-stops",
+        "total_acs": 54512,
+        "total_submitted": 101314,
+        "frontend_question_id": 1184,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1283,
+        "question__title": "Reformat Date",
+        "question__title_slug": "reformat-date",
+        "total_acs": 61389,
+        "total_submitted": 95665,
+        "frontend_question_id": 1507,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1279,
+        "question__title": "Prime Arrangements",
+        "question__title_slug": "prime-arrangements",
+        "total_acs": 27682,
+        "total_submitted": 49716,
+        "frontend_question_id": 1175,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1274,
+        "question__title": "Number of Days Between Two Dates",
+        "question__title_slug": "number-of-days-between-two-dates",
+        "total_acs": 45146,
+        "total_submitted": 92130,
+        "frontend_question_id": 1360,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1264,
+        "question__title": "Maximum Number of Words You Can Type",
+        "question__title_slug": "maximum-number-of-words-you-can-type",
+        "total_acs": 50184,
+        "total_submitted": 69477,
+        "frontend_question_id": 1935,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1260,
+        "question__title": "Day of the Year",
+        "question__title_slug": "day-of-the-year",
+        "total_acs": 50508,
+        "total_submitted": 103431,
+        "frontend_question_id": 1154,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1256,
+        "question__title": "Rank Transform of an Array",
+        "question__title_slug": "rank-transform-of-an-array",
+        "total_acs": 92709,
+        "total_submitted": 154654,
+        "frontend_question_id": 1331,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1241,
+        "question__title": "Decompress Run-Length Encoded List",
+        "question__title_slug": "decompress-run-length-encoded-list",
+        "total_acs": 243697,
+        "total_submitted": 284726,
+        "frontend_question_id": 1313,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1236,
+        "question__title": "N-th Tribonacci Number",
+        "question__title_slug": "n-th-tribonacci-number",
+        "total_acs": 556820,
+        "total_submitted": 876761,
+        "frontend_question_id": 1137,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1231,
+        "question__title": "Replace Elements with Greatest Element on Right Side",
+        "question__title_slug": "replace-elements-with-greatest-element-on-right-side",
+        "total_acs": 333217,
+        "total_submitted": 464778,
+        "frontend_question_id": 1299,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1227,
+        "question__title": "Number of Equivalent Domino Pairs",
+        "question__title_slug": "number-of-equivalent-domino-pairs",
+        "total_acs": 62572,
+        "total_submitted": 131181,
+        "frontend_question_id": 1128,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1221,
+        "question__title": "Element Appearing More Than 25% In Sorted Array",
+        "question__title_slug": "element-appearing-more-than-25-in-sorted-array",
+        "total_acs": 85333,
+        "total_submitted": 144497,
+        "frontend_question_id": 1287,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1217,
+        "question__title": "Relative Sort Array",
+        "question__title_slug": "relative-sort-array",
+        "total_acs": 169625,
+        "total_submitted": 246988,
+        "frontend_question_id": 1122,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1210,
+        "question__title": "Mean of Array After Removing Some Elements",
+        "question__title_slug": "mean-of-array-after-removing-some-elements",
+        "total_acs": 51529,
+        "total_submitted": 76935,
+        "frontend_question_id": 1619,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1205,
+        "question__title": "Defanging an IP Address",
+        "question__title_slug": "defanging-an-ip-address",
+        "total_acs": 573507,
+        "total_submitted": 645233,
+        "frontend_question_id": 1108,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1195,
+        "question__title": "Distribute Candies to People",
+        "question__title_slug": "distribute-candies-to-people",
+        "total_acs": 81409,
+        "total_submitted": 125887,
+        "frontend_question_id": 1103,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1168,
+        "question__title": "Duplicate Zeros",
+        "question__title_slug": "duplicate-zeros",
+        "total_acs": 380896,
+        "total_submitted": 738061,
+        "frontend_question_id": 1089,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1156,
+        "question__title": "Occurrences After Bigram",
+        "question__title_slug": "occurrences-after-bigram",
+        "total_acs": 66410,
+        "total_submitted": 104757,
+        "frontend_question_id": 1078,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1146,
+        "question__title": "Greatest Common Divisor of Strings",
+        "question__title_slug": "greatest-common-divisor-of-strings",
+        "total_acs": 281842,
+        "total_submitted": 540911,
+        "frontend_question_id": 1071,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1137,
+        "question__title": "Height Checker",
+        "question__title_slug": "height-checker",
+        "total_acs": 303894,
+        "total_submitted": 399342,
+        "frontend_question_id": 1051,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1128,
+        "question__title": "Remove All Adjacent Duplicates In String",
+        "question__title_slug": "remove-all-adjacent-duplicates-in-string",
+        "total_acs": 495843,
+        "total_submitted": 717979,
+        "frontend_question_id": 1047,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1127,
+        "question__title": "Last Stone Weight",
+        "question__title_slug": "last-stone-weight",
+        "total_acs": 534894,
+        "total_submitted": 820996,
+        "frontend_question_id": 1046,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1115,
+        "question__title": "Valid Boomerang",
+        "question__title_slug": "valid-boomerang",
+        "total_acs": 46074,
+        "total_submitted": 125098,
+        "frontend_question_id": 1037,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1112,
+        "question__title": "Find Words That Can Be Formed by Characters",
+        "question__title_slug": "find-words-that-can-be-formed-by-characters",
+        "total_acs": 155115,
+        "total_submitted": 231084,
+        "frontend_question_id": 1160,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1094,
+        "question__title": "Matrix Cells in Distance Order",
+        "question__title_slug": "matrix-cells-in-distance-order",
+        "total_acs": 53692,
+        "total_submitted": 76493,
+        "frontend_question_id": 1030,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1086,
+        "question__title": "Divisor Game",
+        "question__title_slug": "divisor-game",
+        "total_acs": 226075,
+        "total_submitted": 331946,
+        "frontend_question_id": 1025,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1079,
+        "question__title": "Sum of Root To Leaf Binary Numbers",
+        "question__title_slug": "sum-of-root-to-leaf-binary-numbers",
+        "total_acs": 198764,
+        "total_submitted": 271003,
+        "frontend_question_id": 1022,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1078,
+        "question__title": "Remove Outermost Parentheses",
+        "question__title_slug": "remove-outermost-parentheses",
+        "total_acs": 256996,
+        "total_submitted": 314779,
+        "frontend_question_id": 1021,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1071,
+        "question__title": "Binary Prefix Divisible By 5",
+        "question__title_slug": "binary-prefix-divisible-by-5",
+        "total_acs": 50582,
+        "total_submitted": 108208,
+        "frontend_question_id": 1018,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1062,
+        "question__title": "Partition Array Into Three Parts With Equal Sum",
+        "question__title_slug": "partition-array-into-three-parts-with-equal-sum",
+        "total_acs": 85407,
+        "total_submitted": 202572,
+        "frontend_question_id": 1013,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1054,
+        "question__title": "Complement of Base 10 Integer",
+        "question__title_slug": "complement-of-base-10-integer",
+        "total_acs": 208830,
+        "total_submitted": 343264,
+        "frontend_question_id": 1009,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1047,
+        "question__title": "Maximize Sum Of Array After K Negations",
+        "question__title_slug": "maximize-sum-of-array-after-k-negations",
+        "total_acs": 79583,
+        "total_submitted": 156693,
+        "frontend_question_id": 1005,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1044,
+        "question__title": "Find Common Characters",
+        "question__title_slug": "find-common-characters",
+        "total_acs": 194724,
+        "total_submitted": 283572,
+        "frontend_question_id": 1002,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1041,
+        "question__title": "Available Captures for Rook",
+        "question__title_slug": "available-captures-for-rook",
+        "total_acs": 61691,
+        "total_submitted": 90056,
+        "frontend_question_id": 999,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1039,
+        "question__title": "Find the Town Judge",
+        "question__title_slug": "find-the-town-judge",
+        "total_acs": 433187,
+        "total_submitted": 879677,
+        "frontend_question_id": 997,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1035,
+        "question__title": "Cousins in Binary Tree",
+        "question__title_slug": "cousins-in-binary-tree",
+        "total_acs": 256135,
+        "total_submitted": 463224,
+        "frontend_question_id": 993,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1031,
+        "question__title": "Add to Array-Form of Integer",
+        "question__title_slug": "add-to-array-form-of-integer",
+        "total_acs": 240877,
+        "total_submitted": 522954,
+        "frontend_question_id": 989,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1019,
+        "question__title": "Squares of a Sorted Array",
+        "question__title_slug": "squares-of-a-sorted-array",
+        "total_acs": 1529902,
+        "total_submitted": 2131141,
+        "frontend_question_id": 977,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1018,
+        "question__title": "Largest Perimeter Triangle",
+        "question__title_slug": "largest-perimeter-triangle",
+        "total_acs": 218765,
+        "total_submitted": 397278,
+        "frontend_question_id": 976,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1013,
+        "question__title": "Fibonacci Number",
+        "question__title_slug": "fibonacci-number",
+        "total_acs": 1532866,
+        "total_submitted": 2177652,
+        "frontend_question_id": 509,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1005,
+        "question__title": "Univalued Binary Tree",
+        "question__title_slug": "univalued-binary-tree",
+        "total_acs": 203827,
+        "total_submitted": 290057,
+        "frontend_question_id": 965,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1001,
+        "question__title": "N-Repeated Element in Size 2N Array",
+        "question__title_slug": "n-repeated-element-in-size-2n-array",
+        "total_acs": 219738,
+        "total_submitted": 288045,
+        "frontend_question_id": 961,
+        "is_new_question": false
+    },
+    {
+        "question_id": 990,
+        "question__title": "Verifying an Alien Dictionary",
+        "question__title_slug": "verifying-an-alien-dictionary",
+        "total_acs": 476708,
+        "total_submitted": 872217,
+        "frontend_question_id": 953,
+        "is_new_question": false
+    },
+    {
+        "question_id": 981,
+        "question__title": "Delete Columns to Make Sorted",
+        "question__title_slug": "delete-columns-to-make-sorted",
+        "total_acs": 179210,
+        "total_submitted": 240175,
+        "frontend_question_id": 944,
+        "is_new_question": false
+    },
+    {
+        "question_id": 979,
+        "question__title": "DI String Match",
+        "question__title_slug": "di-string-match",
+        "total_acs": 142530,
+        "total_submitted": 182790,
+        "frontend_question_id": 942,
+        "is_new_question": false
+    },
+    {
+        "question_id": 978,
+        "question__title": "Valid Mountain Array",
+        "question__title_slug": "valid-mountain-array",
+        "total_acs": 389221,
+        "total_submitted": 1167034,
+        "frontend_question_id": 941,
+        "is_new_question": false
+    },
+    {
+        "question_id": 975,
+        "question__title": "Range Sum of BST",
+        "question__title_slug": "range-sum-of-bst",
+        "total_acs": 831597,
+        "total_submitted": 967889,
+        "frontend_question_id": 938,
+        "is_new_question": false
+    },
+    {
+        "question_id": 969,
+        "question__title": "Number of Recent Calls",
+        "question__title_slug": "number-of-recent-calls",
+        "total_acs": 187975,
+        "total_submitted": 254774,
+        "frontend_question_id": 933,
+        "is_new_question": false
+    },
+    {
+        "question_id": 965,
+        "question__title": "Unique Email Addresses",
+        "question__title_slug": "unique-email-addresses",
+        "total_acs": 450407,
+        "total_submitted": 672006,
+        "frontend_question_id": 929,
+        "is_new_question": false
+    },
+    {
+        "question_id": 961,
+        "question__title": "Long Pressed Name",
+        "question__title_slug": "long-pressed-name",
+        "total_acs": 128254,
+        "total_submitted": 393655,
+        "frontend_question_id": 925,
+        "is_new_question": false
+    },
+    {
+        "question_id": 958,
+        "question__title": "Sort Array By Parity II",
+        "question__title_slug": "sort-array-by-parity-ii",
+        "total_acs": 234150,
+        "total_submitted": 331433,
+        "frontend_question_id": 922,
+        "is_new_question": false
+    },
+    {
+        "question_id": 953,
+        "question__title": "Reverse Only Letters",
+        "question__title_slug": "reverse-only-letters",
+        "total_acs": 186114,
+        "total_submitted": 294376,
+        "frontend_question_id": 917,
+        "is_new_question": false
+    },
+    {
+        "question_id": 950,
+        "question__title": "X of a Kind in a Deck of Cards",
+        "question__title_slug": "x-of-a-kind-in-a-deck-of-cards",
+        "total_acs": 112025,
+        "total_submitted": 369799,
+        "frontend_question_id": 914,
+        "is_new_question": false
+    },
+    {
+        "question_id": 944,
+        "question__title": "Smallest Range I",
+        "question__title_slug": "smallest-range-i",
+        "total_acs": 80479,
+        "total_submitted": 116327,
+        "frontend_question_id": 908,
+        "is_new_question": false
+    },
+    {
+        "question_id": 941,
+        "question__title": "Sort Array By Parity",
+        "question__title_slug": "sort-array-by-parity",
+        "total_acs": 740590,
+        "total_submitted": 971274,
+        "frontend_question_id": 905,
+        "is_new_question": false
+    },
+    {
+        "question_id": 933,
+        "question__title": "Increasing Order Search Tree",
+        "question__title_slug": "increasing-order-search-tree",
+        "total_acs": 264063,
+        "total_submitted": 337254,
+        "frontend_question_id": 897,
+        "is_new_question": false
+    },
+    {
+        "question_id": 932,
+        "question__title": "Monotonic Array",
+        "question__title_slug": "monotonic-array",
+        "total_acs": 387430,
+        "total_submitted": 634445,
+        "frontend_question_id": 896,
+        "is_new_question": false
+    },
+    {
+        "question_id": 928,
+        "question__title": "Surface Area of 3D Shapes",
+        "question__title_slug": "surface-area-of-3d-shapes",
+        "total_acs": 36806,
+        "total_submitted": 56722,
+        "frontend_question_id": 892,
+        "is_new_question": false
+    },
+    {
+        "question_id": 924,
+        "question__title": "Fair Candy Swap",
+        "question__title_slug": "fair-candy-swap",
+        "total_acs": 110230,
+        "total_submitted": 180331,
+        "frontend_question_id": 888,
+        "is_new_question": false
+    },
+    {
+        "question_id": 920,
+        "question__title": "Uncommon Words from Two Sentences",
+        "question__title_slug": "uncommon-words-from-two-sentences",
+        "total_acs": 127437,
+        "total_submitted": 191112,
+        "frontend_question_id": 884,
+        "is_new_question": false
+    },
+    {
+        "question_id": 919,
+        "question__title": "Projection Area of 3D Shapes",
+        "question__title_slug": "projection-area-of-3d-shapes",
+        "total_acs": 51382,
+        "total_submitted": 71499,
+        "frontend_question_id": 883,
+        "is_new_question": false
+    },
+    {
+        "question_id": 908,
+        "question__title": "Middle of the Linked List",
+        "question__title_slug": "middle-of-the-linked-list",
+        "total_acs": 1540722,
+        "total_submitted": 2008746,
+        "frontend_question_id": 876,
+        "is_new_question": false
+    },
+    {
+        "question_id": 904,
+        "question__title": "Leaf-Similar Trees",
+        "question__title_slug": "leaf-similar-trees",
+        "total_acs": 298199,
+        "total_submitted": 439521,
+        "frontend_question_id": 872,
+        "is_new_question": false
+    },
+    {
+        "question_id": 899,
+        "question__title": "Binary Gap",
+        "question__title_slug": "binary-gap",
+        "total_acs": 74584,
+        "total_submitted": 118945,
+        "frontend_question_id": 868,
+        "is_new_question": false
+    },
+    {
+        "question_id": 898,
+        "question__title": "Transpose Matrix",
+        "question__title_slug": "transpose-matrix",
+        "total_acs": 271197,
+        "total_submitted": 411327,
+        "frontend_question_id": 867,
+        "is_new_question": false
+    },
+    {
+        "question_id": 890,
+        "question__title": "Lemonade Change",
+        "question__title_slug": "lemonade-change",
+        "total_acs": 153426,
+        "total_submitted": 289269,
+        "frontend_question_id": 860,
+        "is_new_question": false
+    },
+    {
+        "question_id": 889,
+        "question__title": "Buddy Strings",
+        "question__title_slug": "buddy-strings",
+        "total_acs": 224317,
+        "total_submitted": 682482,
+        "frontend_question_id": 859,
+        "is_new_question": false
+    },
+    {
+        "question_id": 874,
+        "question__title": "Backspace String Compare",
+        "question__title_slug": "backspace-string-compare",
+        "total_acs": 754733,
+        "total_submitted": 1539487,
+        "frontend_question_id": 844,
+        "is_new_question": false
+    },
+    {
+        "question_id": 866,
+        "question__title": "Rectangle Overlap",
+        "question__title_slug": "rectangle-overlap",
+        "total_acs": 132893,
+        "total_submitted": 300100,
+        "frontend_question_id": 836,
+        "is_new_question": false
+    },
+    {
+        "question_id": 861,
+        "question__title": "Flipping an Image",
+        "question__title_slug": "flipping-an-image",
+        "total_acs": 389960,
+        "total_submitted": 479625,
+        "frontend_question_id": 832,
+        "is_new_question": false
+    },
+    {
+        "question_id": 857,
+        "question__title": "Positions of Large Groups",
+        "question__title_slug": "positions-of-large-groups",
+        "total_acs": 88404,
+        "total_submitted": 170057,
+        "frontend_question_id": 830,
+        "is_new_question": false
+    },
+    {
+        "question_id": 851,
+        "question__title": "Goat Latin",
+        "question__title_slug": "goat-latin",
+        "total_acs": 164411,
+        "total_submitted": 242058,
+        "frontend_question_id": 824,
+        "is_new_question": false
+    },
+    {
+        "question_id": 841,
+        "question__title": "Shortest Distance to a Character",
+        "question__title_slug": "shortest-distance-to-a-character",
+        "total_acs": 169189,
+        "total_submitted": 237294,
+        "frontend_question_id": 821,
+        "is_new_question": false
+    },
+    {
+        "question_id": 837,
+        "question__title": "Most Common Word",
+        "question__title_slug": "most-common-word",
+        "total_acs": 336100,
+        "total_submitted": 755854,
+        "frontend_question_id": 819,
+        "is_new_question": false
+    },
+    {
+        "question_id": 830,
+        "question__title": "Largest Triangle Area",
+        "question__title_slug": "largest-triangle-area",
+        "total_acs": 45246,
+        "total_submitted": 75255,
+        "frontend_question_id": 812,
+        "is_new_question": false
+    },
+    {
+        "question_id": 824,
+        "question__title": "Number of Lines To Write String",
+        "question__title_slug": "number-of-lines-to-write-string",
+        "total_acs": 70935,
+        "total_submitted": 105339,
+        "frontend_question_id": 806,
+        "is_new_question": false
+    },
+    {
+        "question_id": 822,
+        "question__title": "Unique Morse Code Words",
+        "question__title_slug": "unique-morse-code-words",
+        "total_acs": 331420,
+        "total_submitted": 400890,
+        "frontend_question_id": 804,
+        "is_new_question": false
+    },
+    {
+        "question_id": 817,
+        "question__title": "Design HashMap",
+        "question__title_slug": "design-hashmap",
+        "total_acs": 531615,
+        "total_submitted": 806032,
+        "frontend_question_id": 706,
+        "is_new_question": false
+    },
+    {
+        "question_id": 816,
+        "question__title": "Design HashSet",
+        "question__title_slug": "design-hashset",
+        "total_acs": 373302,
+        "total_submitted": 555953,
+        "frontend_question_id": 705,
+        "is_new_question": false
+    },
+    {
+        "question_id": 812,
+        "question__title": "Rotate String",
+        "question__title_slug": "rotate-string",
+        "total_acs": 250841,
+        "total_submitted": 443093,
+        "frontend_question_id": 796,
+        "is_new_question": false
+    },
+    {
+        "question_id": 799,
+        "question__title": "Minimum Distance Between BST Nodes",
+        "question__title_slug": "minimum-distance-between-bst-nodes",
+        "total_acs": 231424,
+        "total_submitted": 389209,
+        "frontend_question_id": 783,
+        "is_new_question": false
+    },
+    {
+        "question_id": 792,
+        "question__title": "Binary Search",
+        "question__title_slug": "binary-search",
+        "total_acs": 2052852,
+        "total_submitted": 3618732,
+        "frontend_question_id": 704,
+        "is_new_question": false
+    },
+    {
+        "question_id": 789,
+        "question__title": "Kth Largest Element in a Stream",
+        "question__title_slug": "kth-largest-element-in-a-stream",
+        "total_acs": 466668,
+        "total_submitted": 824656,
+        "frontend_question_id": 703,
+        "is_new_question": false
+    },
+    {
+        "question_id": 783,
+        "question__title": "Search in a Binary Search Tree",
+        "question__title_slug": "search-in-a-binary-search-tree",
+        "total_acs": 736371,
+        "total_submitted": 935000,
+        "frontend_question_id": 700,
+        "is_new_question": false
+    },
+    {
+        "question_id": 782,
+        "question__title": "Jewels and Stones",
+        "question__title_slug": "jewels-and-stones",
+        "total_acs": 942757,
+        "total_submitted": 1067343,
+        "frontend_question_id": 771,
+        "is_new_question": false
+    },
+    {
+        "question_id": 777,
+        "question__title": "Toeplitz Matrix",
+        "question__title_slug": "toeplitz-matrix",
+        "total_acs": 293224,
+        "total_submitted": 428127,
+        "frontend_question_id": 766,
+        "is_new_question": false
+    },
+    {
+        "question_id": 776,
+        "question__title": "N-ary Tree Postorder Traversal",
+        "question__title_slug": "n-ary-tree-postorder-traversal",
+        "total_acs": 238608,
+        "total_submitted": 307520,
+        "frontend_question_id": 590,
+        "is_new_question": false
+    },
+    {
+        "question_id": 775,
+        "question__title": "N-ary Tree Preorder Traversal",
+        "question__title_slug": "n-ary-tree-preorder-traversal",
+        "total_acs": 408995,
+        "total_submitted": 540972,
+        "frontend_question_id": 589,
+        "is_new_question": false
+    },
+    {
+        "question_id": 774,
+        "question__title": "Maximum Depth of N-ary Tree",
+        "question__title_slug": "maximum-depth-of-n-ary-tree",
+        "total_acs": 263757,
+        "total_submitted": 367091,
+        "frontend_question_id": 559,
+        "is_new_question": false
+    },
+    {
+        "question_id": 767,
+        "question__title": "Prime Number of Set Bits in Binary Representation",
+        "question__title_slug": "prime-number-of-set-bits-in-binary-representation",
+        "total_acs": 88919,
+        "total_submitted": 129431,
+        "frontend_question_id": 762,
+        "is_new_question": false
+    },
+    {
+        "question_id": 749,
+        "question__title": "Shortest Completing Word",
+        "question__title_slug": "shortest-completing-word",
+        "total_acs": 67126,
+        "total_submitted": 113196,
+        "frontend_question_id": 748,
+        "is_new_question": false
+    },
+    {
+        "question_id": 748,
+        "question__title": "Largest Number At Least Twice of Others",
+        "question__title_slug": "largest-number-at-least-twice-of-others",
+        "total_acs": 221669,
+        "total_submitted": 462236,
+        "frontend_question_id": 747,
+        "is_new_question": false
+    },
+    {
+        "question_id": 747,
+        "question__title": "Min Cost Climbing Stairs",
+        "question__title_slug": "min-cost-climbing-stairs",
+        "total_acs": 1012446,
+        "total_submitted": 1556967,
+        "frontend_question_id": 746,
+        "is_new_question": false
+    },
+    {
+        "question_id": 745,
+        "question__title": "Find Smallest Letter Greater Than Target",
+        "question__title_slug": "find-smallest-letter-greater-than-target",
+        "total_acs": 426357,
+        "total_submitted": 831815,
+        "frontend_question_id": 744,
+        "is_new_question": false
+    },
+    {
+        "question_id": 742,
+        "question__title": "To Lower Case",
+        "question__title_slug": "to-lower-case",
+        "total_acs": 461878,
+        "total_submitted": 557743,
+        "frontend_question_id": 709,
+        "is_new_question": false
+    },
+    {
+        "question_id": 733,
+        "question__title": "Flood Fill",
+        "question__title_slug": "flood-fill",
+        "total_acs": 804064,
+        "total_submitted": 1273525,
+        "frontend_question_id": 733,
+        "is_new_question": false
+    },
+    {
+        "question_id": 728,
+        "question__title": "Self Dividing Numbers",
+        "question__title_slug": "self-dividing-numbers",
+        "total_acs": 221035,
+        "total_submitted": 282974,
+        "frontend_question_id": 728,
+        "is_new_question": false
+    },
+    {
+        "question_id": 724,
+        "question__title": "Find Pivot Index",
+        "question__title_slug": "find-pivot-index",
+        "total_acs": 944259,
+        "total_submitted": 1680404,
+        "frontend_question_id": 724,
+        "is_new_question": false
+    },
+    {
+        "question_id": 717,
+        "question__title": "1-bit and 2-bit Characters",
+        "question__title_slug": "1-bit-and-2-bit-characters",
+        "total_acs": 124539,
+        "total_submitted": 275217,
+        "frontend_question_id": 717,
+        "is_new_question": false
+    },
+    {
+        "question_id": 697,
+        "question__title": "Degree of an Array",
+        "question__title_slug": "degree-of-an-array",
+        "total_acs": 194725,
+        "total_submitted": 346870,
+        "frontend_question_id": 697,
+        "is_new_question": false
+    },
+    {
+        "question_id": 696,
+        "question__title": "Count Binary Substrings",
+        "question__title_slug": "count-binary-substrings",
+        "total_acs": 195793,
+        "total_submitted": 299095,
+        "frontend_question_id": 696,
+        "is_new_question": false
+    },
+    {
+        "question_id": 693,
+        "question__title": "Binary Number with Alternating Bits",
+        "question__title_slug": "binary-number-with-alternating-bits",
+        "total_acs": 122923,
+        "total_submitted": 198633,
+        "frontend_question_id": 693,
+        "is_new_question": false
+    },
+    {
+        "question_id": 682,
+        "question__title": "Baseball Game",
+        "question__title_slug": "baseball-game",
+        "total_acs": 291402,
+        "total_submitted": 387554,
+        "frontend_question_id": 682,
+        "is_new_question": false
+    },
+    {
+        "question_id": 680,
+        "question__title": "Valid Palindrome II",
+        "question__title_slug": "valid-palindrome-ii",
+        "total_acs": 644910,
+        "total_submitted": 1624375,
+        "frontend_question_id": 680,
+        "is_new_question": false
+    },
+    {
+        "question_id": 674,
+        "question__title": "Longest Continuous Increasing Subsequence",
+        "question__title_slug": "longest-continuous-increasing-subsequence",
+        "total_acs": 242093,
+        "total_submitted": 487849,
+        "frontend_question_id": 674,
+        "is_new_question": false
+    },
+    {
+        "question_id": 671,
+        "question__title": "Second Minimum Node In a Binary Tree",
+        "question__title_slug": "second-minimum-node-in-a-binary-tree",
+        "total_acs": 178713,
+        "total_submitted": 403746,
+        "frontend_question_id": 671,
+        "is_new_question": false
+    },
+    {
+        "question_id": 661,
+        "question__title": "Image Smoother",
+        "question__title_slug": "image-smoother",
+        "total_acs": 76095,
+        "total_submitted": 136095,
+        "frontend_question_id": 661,
+        "is_new_question": false
+    },
+    {
+        "question_id": 657,
+        "question__title": "Robot Return to Origin",
+        "question__title_slug": "robot-return-to-origin",
+        "total_acs": 394164,
+        "total_submitted": 522378,
+        "frontend_question_id": 657,
+        "is_new_question": false
+    },
+    {
+        "question_id": 653,
+        "question__title": "Two Sum IV - Input is a BST",
+        "question__title_slug": "two-sum-iv-input-is-a-bst",
+        "total_acs": 493957,
+        "total_submitted": 808269,
+        "frontend_question_id": 653,
+        "is_new_question": false
+    },
+    {
+        "question_id": 645,
+        "question__title": "Set Mismatch",
+        "question__title_slug": "set-mismatch",
+        "total_acs": 289268,
+        "total_submitted": 680683,
+        "frontend_question_id": 645,
+        "is_new_question": false
+    },
+    {
+        "question_id": 643,
+        "question__title": "Maximum Average Subarray I",
+        "question__title_slug": "maximum-average-subarray-i",
+        "total_acs": 308900,
+        "total_submitted": 717094,
+        "frontend_question_id": 643,
+        "is_new_question": false
+    },
+    {
+        "question_id": 637,
+        "question__title": "Average of Levels in Binary Tree",
+        "question__title_slug": "average-of-levels-in-binary-tree",
+        "total_acs": 435449,
+        "total_submitted": 604958,
+        "frontend_question_id": 637,
+        "is_new_question": false
+    },
+    {
+        "question_id": 628,
+        "question__title": "Maximum Product of Three Numbers",
+        "question__title_slug": "maximum-product-of-three-numbers",
+        "total_acs": 287846,
+        "total_submitted": 635520,
+        "frontend_question_id": 628,
+        "is_new_question": false
+    },
+    {
+        "question_id": 617,
+        "question__title": "Merge Two Binary Trees",
+        "question__title_slug": "merge-two-binary-trees",
+        "total_acs": 720434,
+        "total_submitted": 914614,
+        "frontend_question_id": 617,
+        "is_new_question": false
+    },
+    {
+        "question_id": 606,
+        "question__title": "Construct String from Binary Tree",
+        "question__title_slug": "construct-string-from-binary-tree",
+        "total_acs": 229616,
+        "total_submitted": 354537,
+        "frontend_question_id": 606,
+        "is_new_question": false
+    },
+    {
+        "question_id": 605,
+        "question__title": "Can Place Flowers",
+        "question__title_slug": "can-place-flowers",
+        "total_acs": 580258,
+        "total_submitted": 1933158,
+        "frontend_question_id": 605,
+        "is_new_question": false
+    },
+    {
+        "question_id": 599,
+        "question__title": "Minimum Index Sum of Two Lists",
+        "question__title_slug": "minimum-index-sum-of-two-lists",
+        "total_acs": 205704,
+        "total_submitted": 378490,
+        "frontend_question_id": 599,
+        "is_new_question": false
+    },
+    {
+        "question_id": 598,
+        "question__title": "Range Addition II",
+        "question__title_slug": "range-addition-ii",
+        "total_acs": 94779,
+        "total_submitted": 170213,
+        "frontend_question_id": 598,
+        "is_new_question": false
+    },
+    {
+        "question_id": 594,
+        "question__title": "Longest Harmonious Subsequence",
+        "question__title_slug": "longest-harmonious-subsequence",
+        "total_acs": 143449,
+        "total_submitted": 265478,
+        "frontend_question_id": 594,
+        "is_new_question": false
+    },
+    {
+        "question_id": 575,
+        "question__title": "Distribute Candies",
+        "question__title_slug": "distribute-candies",
+        "total_acs": 259416,
+        "total_submitted": 387212,
+        "frontend_question_id": 575,
+        "is_new_question": false
+    },
+    {
+        "question_id": 572,
+        "question__title": "Subtree of Another Tree",
+        "question__title_slug": "subtree-of-another-tree",
+        "total_acs": 738593,
+        "total_submitted": 1568406,
+        "frontend_question_id": 572,
+        "is_new_question": false
+    },
+    {
+        "question_id": 566,
+        "question__title": "Reshape the Matrix",
+        "question__title_slug": "reshape-the-matrix",
+        "total_acs": 360840,
+        "total_submitted": 572843,
+        "frontend_question_id": 566,
+        "is_new_question": false
+    },
+    {
+        "question_id": 563,
+        "question__title": "Binary Tree Tilt",
+        "question__title_slug": "binary-tree-tilt",
+        "total_acs": 199145,
+        "total_submitted": 326857,
+        "frontend_question_id": 563,
+        "is_new_question": false
+    },
+    {
+        "question_id": 561,
+        "question__title": "Array Partition",
+        "question__title_slug": "array-partition",
+        "total_acs": 431849,
+        "total_submitted": 554056,
+        "frontend_question_id": 561,
+        "is_new_question": false
+    },
+    {
+        "question_id": 557,
+        "question__title": "Reverse Words in a String III",
+        "question__title_slug": "reverse-words-in-a-string-iii",
+        "total_acs": 837261,
+        "total_submitted": 1010211,
+        "frontend_question_id": 557,
+        "is_new_question": false
+    },
+    {
+        "question_id": 551,
+        "question__title": "Student Attendance Record I",
+        "question__title_slug": "student-attendance-record-i",
+        "total_acs": 193208,
+        "total_submitted": 398674,
+        "frontend_question_id": 551,
+        "is_new_question": false
+    },
+    {
+        "question_id": 543,
+        "question__title": "Diameter of Binary Tree",
+        "question__title_slug": "diameter-of-binary-tree",
+        "total_acs": 1194224,
+        "total_submitted": 2054591,
+        "frontend_question_id": 543,
+        "is_new_question": false
+    },
+    {
+        "question_id": 541,
+        "question__title": "Reverse String II",
+        "question__title_slug": "reverse-string-ii",
+        "total_acs": 218331,
+        "total_submitted": 433275,
+        "frontend_question_id": 541,
+        "is_new_question": false
+    },
+    {
+        "question_id": 530,
+        "question__title": "Minimum Absolute Difference in BST",
+        "question__title_slug": "minimum-absolute-difference-in-bst",
+        "total_acs": 314267,
+        "total_submitted": 536089,
+        "frontend_question_id": 530,
+        "is_new_question": false
+    },
+    {
+        "question_id": 521,
+        "question__title": "Longest Uncommon Subsequence I",
+        "question__title_slug": "longest-uncommon-subsequence-i",
+        "total_acs": 102528,
+        "total_submitted": 169547,
+        "frontend_question_id": 521,
+        "is_new_question": false
+    },
+    {
+        "question_id": 520,
+        "question__title": "Detect Capital",
+        "question__title_slug": "detect-capital",
+        "total_acs": 406709,
+        "total_submitted": 717511,
+        "frontend_question_id": 520,
+        "is_new_question": false
+    },
+    {
+        "question_id": 507,
+        "question__title": "Perfect Number",
+        "question__title_slug": "perfect-number",
+        "total_acs": 155986,
+        "total_submitted": 404687,
+        "frontend_question_id": 507,
+        "is_new_question": false
+    },
+    {
+        "question_id": 506,
+        "question__title": "Relative Ranks",
+        "question__title_slug": "relative-ranks",
+        "total_acs": 141311,
+        "total_submitted": 226746,
+        "frontend_question_id": 506,
+        "is_new_question": false
+    },
+    {
+        "question_id": 504,
+        "question__title": "Base 7",
+        "question__title_slug": "base-7",
+        "total_acs": 117835,
+        "total_submitted": 239330,
+        "frontend_question_id": 504,
+        "is_new_question": false
+    },
+    {
+        "question_id": 501,
+        "question__title": "Find Mode in Binary Search Tree",
+        "question__title_slug": "find-mode-in-binary-search-tree",
+        "total_acs": 205470,
+        "total_submitted": 409198,
+        "frontend_question_id": 501,
+        "is_new_question": false
+    },
+    {
+        "question_id": 500,
+        "question__title": "Keyboard Row",
+        "question__title_slug": "keyboard-row",
+        "total_acs": 202517,
+        "total_submitted": 289011,
+        "frontend_question_id": 500,
+        "is_new_question": false
+    },
+    {
+        "question_id": 496,
+        "question__title": "Next Greater Element I",
+        "question__title_slug": "next-greater-element-i",
+        "total_acs": 607042,
+        "total_submitted": 846570,
+        "frontend_question_id": 496,
+        "is_new_question": false
+    },
+    {
+        "question_id": 495,
+        "question__title": "Teemo Attacking",
+        "question__title_slug": "teemo-attacking",
+        "total_acs": 136410,
+        "total_submitted": 241481,
+        "frontend_question_id": 495,
+        "is_new_question": false
+    },
+    {
+        "question_id": 492,
+        "question__title": "Construct the Rectangle",
+        "question__title_slug": "construct-the-rectangle",
+        "total_acs": 105095,
+        "total_submitted": 187162,
+        "frontend_question_id": 492,
+        "is_new_question": false
+    },
+    {
+        "question_id": 485,
+        "question__title": "Max Consecutive Ones",
+        "question__title_slug": "max-consecutive-ones",
+        "total_acs": 989361,
+        "total_submitted": 1711236,
+        "frontend_question_id": 485,
+        "is_new_question": false
+    },
+    {
+        "question_id": 482,
+        "question__title": "License Key Formatting",
+        "question__title_slug": "license-key-formatting",
+        "total_acs": 262770,
+        "total_submitted": 605327,
+        "frontend_question_id": 482,
+        "is_new_question": false
+    },
+    {
+        "question_id": 476,
+        "question__title": "Number Complement",
+        "question__title_slug": "number-complement",
+        "total_acs": 312947,
+        "total_submitted": 463729,
+        "frontend_question_id": 476,
+        "is_new_question": false
+    },
+    {
+        "question_id": 463,
+        "question__title": "Island Perimeter",
+        "question__title_slug": "island-perimeter",
+        "total_acs": 465416,
+        "total_submitted": 665392,
+        "frontend_question_id": 463,
+        "is_new_question": false
+    },
+    {
+        "question_id": 461,
+        "question__title": "Hamming Distance",
+        "question__title_slug": "hamming-distance",
+        "total_acs": 545342,
+        "total_submitted": 725465,
+        "frontend_question_id": 461,
+        "is_new_question": false
+    },
+    {
+        "question_id": 459,
+        "question__title": "Repeated Substring Pattern",
+        "question__title_slug": "repeated-substring-pattern",
+        "total_acs": 406451,
+        "total_submitted": 882628,
+        "frontend_question_id": 459,
+        "is_new_question": false
+    },
+    {
+        "question_id": 455,
+        "question__title": "Assign Cookies",
+        "question__title_slug": "assign-cookies",
+        "total_acs": 256341,
+        "total_submitted": 515704,
+        "frontend_question_id": 455,
+        "is_new_question": false
+    },
+    {
+        "question_id": 448,
+        "question__title": "Find All Numbers Disappeared in an Array",
+        "question__title_slug": "find-all-numbers-disappeared-in-an-array",
+        "total_acs": 794527,
+        "total_submitted": 1314625,
+        "frontend_question_id": 448,
+        "is_new_question": false
+    },
+    {
+        "question_id": 441,
+        "question__title": "Arranging Coins",
+        "question__title_slug": "arranging-coins",
+        "total_acs": 393363,
+        "total_submitted": 848026,
+        "frontend_question_id": 441,
+        "is_new_question": false
+    },
+    {
+        "question_id": 434,
+        "question__title": "Number of Segments in a String",
+        "question__title_slug": "number-of-segments-in-a-string",
+        "total_acs": 160155,
+        "total_submitted": 437506,
+        "frontend_question_id": 434,
+        "is_new_question": false
+    },
+    {
+        "question_id": 415,
+        "question__title": "Add Strings",
+        "question__title_slug": "add-strings",
+        "total_acs": 604972,
+        "total_submitted": 1166226,
+        "frontend_question_id": 415,
+        "is_new_question": false
+    },
+    {
+        "question_id": 414,
+        "question__title": "Third Maximum Number",
+        "question__title_slug": "third-maximum-number",
+        "total_acs": 474271,
+        "total_submitted": 1396606,
+        "frontend_question_id": 414,
+        "is_new_question": false
+    },
+    {
+        "question_id": 412,
+        "question__title": "Fizz Buzz",
+        "question__title_slug": "fizz-buzz",
+        "total_acs": 1094592,
+        "total_submitted": 1541201,
+        "frontend_question_id": 412,
+        "is_new_question": false
+    },
+    {
+        "question_id": 409,
+        "question__title": "Longest Palindrome",
+        "question__title_slug": "longest-palindrome",
+        "total_acs": 567712,
+        "total_submitted": 1053272,
+        "frontend_question_id": 409,
+        "is_new_question": false
+    },
+    {
+        "question_id": 405,
+        "question__title": "Convert a Number to Hexadecimal",
+        "question__title_slug": "convert-a-number-to-hexadecimal",
+        "total_acs": 131462,
+        "total_submitted": 276536,
+        "frontend_question_id": 405,
+        "is_new_question": false
+    },
+    {
+        "question_id": 404,
+        "question__title": "Sum of Left Leaves",
+        "question__title_slug": "sum-of-left-leaves",
+        "total_acs": 468793,
+        "total_submitted": 818211,
+        "frontend_question_id": 404,
+        "is_new_question": false
+    },
+    {
+        "question_id": 401,
+        "question__title": "Binary Watch",
+        "question__title_slug": "binary-watch",
+        "total_acs": 132325,
+        "total_submitted": 248695,
+        "frontend_question_id": 401,
+        "is_new_question": false
+    },
+    {
+        "question_id": 392,
+        "question__title": "Is Subsequence",
+        "question__title_slug": "is-subsequence",
+        "total_acs": 1131550,
+        "total_submitted": 2358271,
+        "frontend_question_id": 392,
+        "is_new_question": false
+    },
+    {
+        "question_id": 389,
+        "question__title": "Find the Difference",
+        "question__title_slug": "find-the-difference",
+        "total_acs": 652840,
+        "total_submitted": 1082105,
+        "frontend_question_id": 389,
+        "is_new_question": false
+    },
+    {
+        "question_id": 387,
+        "question__title": "First Unique Character in a String",
+        "question__title_slug": "first-unique-character-in-a-string",
+        "total_acs": 1475742,
+        "total_submitted": 2451319,
+        "frontend_question_id": 387,
+        "is_new_question": false
+    },
+    {
+        "question_id": 383,
+        "question__title": "Ransom Note",
+        "question__title_slug": "ransom-note",
+        "total_acs": 926561,
+        "total_submitted": 1552264,
+        "frontend_question_id": 383,
+        "is_new_question": false
+    },
+    {
+        "question_id": 374,
+        "question__title": "Guess Number Higher or Lower",
+        "question__title_slug": "guess-number-higher-or-lower",
+        "total_acs": 557387,
+        "total_submitted": 1059209,
+        "frontend_question_id": 374,
+        "is_new_question": false
+    },
+    {
+        "question_id": 367,
+        "question__title": "Valid Perfect Square",
+        "question__title_slug": "valid-perfect-square",
+        "total_acs": 536326,
+        "total_submitted": 1235221,
+        "frontend_question_id": 367,
+        "is_new_question": false
+    },
+    {
+        "question_id": 350,
+        "question__title": "Intersection of Two Arrays II",
+        "question__title_slug": "intersection-of-two-arrays-ii",
+        "total_acs": 1124926,
+        "total_submitted": 2001814,
+        "frontend_question_id": 350,
+        "is_new_question": false
+    },
+    {
+        "question_id": 349,
+        "question__title": "Intersection of Two Arrays",
+        "question__title_slug": "intersection-of-two-arrays",
+        "total_acs": 937806,
+        "total_submitted": 1307281,
+        "frontend_question_id": 349,
+        "is_new_question": false
+    },
+    {
+        "question_id": 345,
+        "question__title": "Reverse Vowels of a String",
+        "question__title_slug": "reverse-vowels-of-a-string",
+        "total_acs": 644329,
+        "total_submitted": 1252059,
+        "frontend_question_id": 345,
+        "is_new_question": false
+    },
+    {
+        "question_id": 344,
+        "question__title": "Reverse String",
+        "question__title_slug": "reverse-string",
+        "total_acs": 2281467,
+        "total_submitted": 2951592,
+        "frontend_question_id": 344,
+        "is_new_question": false
+    },
+    {
+        "question_id": 342,
+        "question__title": "Power of Four",
+        "question__title_slug": "power-of-four",
+        "total_acs": 505560,
+        "total_submitted": 1079616,
+        "frontend_question_id": 342,
+        "is_new_question": false
+    },
+    {
+        "question_id": 338,
+        "question__title": "Counting Bits",
+        "question__title_slug": "counting-bits",
+        "total_acs": 964472,
+        "total_submitted": 1242791,
+        "frontend_question_id": 338,
+        "is_new_question": false
+    },
+    {
+        "question_id": 326,
+        "question__title": "Power of Three",
+        "question__title_slug": "power-of-three",
+        "total_acs": 745080,
+        "total_submitted": 1622650,
+        "frontend_question_id": 326,
+        "is_new_question": false
+    },
+    {
+        "question_id": 303,
+        "question__title": "Range Sum Query - Immutable",
+        "question__title_slug": "range-sum-query-immutable",
+        "total_acs": 475713,
+        "total_submitted": 774306,
+        "frontend_question_id": 303,
+        "is_new_question": false
+    },
+    {
+        "question_id": 292,
+        "question__title": "Nim Game",
+        "question__title_slug": "nim-game",
+        "total_acs": 344778,
+        "total_submitted": 611629,
+        "frontend_question_id": 292,
+        "is_new_question": false
+    },
+    {
+        "question_id": 290,
+        "question__title": "Word Pattern",
+        "question__title_slug": "word-pattern",
+        "total_acs": 598076,
+        "total_submitted": 1433696,
+        "frontend_question_id": 290,
+        "is_new_question": false
+    },
+    {
+        "question_id": 283,
+        "question__title": "Move Zeroes",
+        "question__title_slug": "move-zeroes",
+        "total_acs": 2536672,
+        "total_submitted": 4130940,
+        "frontend_question_id": 283,
+        "is_new_question": false
+    },
+    {
+        "question_id": 278,
+        "question__title": "First Bad Version",
+        "question__title_slug": "first-bad-version",
+        "total_acs": 1568769,
+        "total_submitted": 3580304,
+        "frontend_question_id": 278,
+        "is_new_question": false
+    },
+    {
+        "question_id": 268,
+        "question__title": "Missing Number",
+        "question__title_slug": "missing-number",
+        "total_acs": 1732247,
+        "total_submitted": 2700417,
+        "frontend_question_id": 268,
+        "is_new_question": false
+    },
+    {
+        "question_id": 263,
+        "question__title": "Ugly Number",
+        "question__title_slug": "ugly-number",
+        "total_acs": 462196,
+        "total_submitted": 1100510,
+        "frontend_question_id": 263,
+        "is_new_question": false
+    },
+    {
+        "question_id": 258,
+        "question__title": "Add Digits",
+        "question__title_slug": "add-digits",
+        "total_acs": 705949,
+        "total_submitted": 1069061,
+        "frontend_question_id": 258,
+        "is_new_question": false
+    },
+    {
+        "question_id": 257,
+        "question__title": "Binary Tree Paths",
+        "question__title_slug": "binary-tree-paths",
+        "total_acs": 663426,
+        "total_submitted": 1059821,
+        "frontend_question_id": 257,
+        "is_new_question": false
+    },
+    {
+        "question_id": 242,
+        "question__title": "Valid Anagram",
+        "question__title_slug": "valid-anagram",
+        "total_acs": 2720240,
+        "total_submitted": 4291915,
+        "frontend_question_id": 242,
+        "is_new_question": false
+    },
+    {
+        "question_id": 234,
+        "question__title": "Palindrome Linked List",
+        "question__title_slug": "palindrome-linked-list",
+        "total_acs": 1614243,
+        "total_submitted": 3157879,
+        "frontend_question_id": 234,
+        "is_new_question": false
+    },
+    {
+        "question_id": 232,
+        "question__title": "Implement Queue using Stacks",
+        "question__title_slug": "implement-queue-using-stacks",
+        "total_acs": 742371,
+        "total_submitted": 1158807,
+        "frontend_question_id": 232,
+        "is_new_question": false
+    },
+    {
+        "question_id": 231,
+        "question__title": "Power of Two",
+        "question__title_slug": "power-of-two",
+        "total_acs": 1014105,
+        "total_submitted": 2187214,
+        "frontend_question_id": 231,
+        "is_new_question": false
+    },
+    {
+        "question_id": 228,
+        "question__title": "Summary Ranges",
+        "question__title_slug": "summary-ranges",
+        "total_acs": 469422,
+        "total_submitted": 945316,
+        "frontend_question_id": 228,
+        "is_new_question": false
+    },
+    {
+        "question_id": 226,
+        "question__title": "Invert Binary Tree",
+        "question__title_slug": "invert-binary-tree",
+        "total_acs": 1771114,
+        "total_submitted": 2333714,
+        "frontend_question_id": 226,
+        "is_new_question": false
+    },
+    {
+        "question_id": 225,
+        "question__title": "Implement Stack using Queues",
+        "question__title_slug": "implement-stack-using-queues",
+        "total_acs": 582892,
+        "total_submitted": 934547,
+        "frontend_question_id": 225,
+        "is_new_question": false
+    },
+    {
+        "question_id": 222,
+        "question__title": "Count Complete Tree Nodes",
+        "question__title_slug": "count-complete-tree-nodes",
+        "total_acs": 616444,
+        "total_submitted": 980521,
+        "frontend_question_id": 222,
+        "is_new_question": false
+    },
+    {
+        "question_id": 219,
+        "question__title": "Contains Duplicate II",
+        "question__title_slug": "contains-duplicate-ii",
+        "total_acs": 777177,
+        "total_submitted": 1779760,
+        "frontend_question_id": 219,
+        "is_new_question": false
+    },
+    {
+        "question_id": 217,
+        "question__title": "Contains Duplicate",
+        "question__title_slug": "contains-duplicate",
+        "total_acs": 3310995,
+        "total_submitted": 5422845,
+        "frontend_question_id": 217,
+        "is_new_question": false
+    },
+    {
+        "question_id": 206,
+        "question__title": "Reverse Linked List",
+        "question__title_slug": "reverse-linked-list",
+        "total_acs": 3489017,
+        "total_submitted": 4657673,
+        "frontend_question_id": 206,
+        "is_new_question": false
+    },
+    {
+        "question_id": 205,
+        "question__title": "Isomorphic Strings",
+        "question__title_slug": "isomorphic-strings",
+        "total_acs": 1019378,
+        "total_submitted": 2343661,
+        "frontend_question_id": 205,
+        "is_new_question": false
+    },
+    {
+        "question_id": 203,
+        "question__title": "Remove Linked List Elements",
+        "question__title_slug": "remove-linked-list-elements",
+        "total_acs": 1016673,
+        "total_submitted": 2143200,
+        "frontend_question_id": 203,
+        "is_new_question": false
+    },
+    {
+        "question_id": 202,
+        "question__title": "Happy Number",
+        "question__title_slug": "happy-number",
+        "total_acs": 1276250,
+        "total_submitted": 2303582,
+        "frontend_question_id": 202,
+        "is_new_question": false
+    },
+    {
+        "question_id": 191,
+        "question__title": "Number of 1 Bits",
+        "question__title_slug": "number-of-1-bits",
+        "total_acs": 1230006,
+        "total_submitted": 1796679,
+        "frontend_question_id": 191,
+        "is_new_question": false
+    },
+    {
+        "question_id": 190,
+        "question__title": "Reverse Bits",
+        "question__title_slug": "reverse-bits",
+        "total_acs": 698180,
+        "total_submitted": 1239989,
+        "frontend_question_id": 190,
+        "is_new_question": false
+    },
+    {
+        "question_id": 171,
+        "question__title": "Excel Sheet Column Number",
+        "question__title_slug": "excel-sheet-column-number",
+        "total_acs": 638432,
+        "total_submitted": 1014134,
+        "frontend_question_id": 171,
+        "is_new_question": false
+    },
+    {
+        "question_id": 169,
+        "question__title": "Majority Element",
+        "question__title_slug": "majority-element",
+        "total_acs": 2141350,
+        "total_submitted": 3353730,
+        "frontend_question_id": 169,
+        "is_new_question": false
+    },
+    {
+        "question_id": 168,
+        "question__title": "Excel Sheet Column Title",
+        "question__title_slug": "excel-sheet-column-title",
+        "total_acs": 479530,
+        "total_submitted": 1211753,
+        "frontend_question_id": 168,
+        "is_new_question": false
+    },
+    {
+        "question_id": 160,
+        "question__title": "Intersection of Two Linked Lists",
+        "question__title_slug": "intersection-of-two-linked-lists",
+        "total_acs": 1401799,
+        "total_submitted": 2501595,
+        "frontend_question_id": 160,
+        "is_new_question": false
+    },
+    {
+        "question_id": 145,
+        "question__title": "Binary Tree Postorder Traversal",
+        "question__title_slug": "binary-tree-postorder-traversal",
+        "total_acs": 1059918,
+        "total_submitted": 1522376,
+        "frontend_question_id": 145,
+        "is_new_question": false
+    },
+    {
+        "question_id": 144,
+        "question__title": "Binary Tree Preorder Traversal",
+        "question__title_slug": "binary-tree-preorder-traversal",
+        "total_acs": 1447665,
+        "total_submitted": 2119315,
+        "frontend_question_id": 144,
+        "is_new_question": false
+    },
+    {
+        "question_id": 141,
+        "question__title": "Linked List Cycle",
+        "question__title_slug": "linked-list-cycle",
+        "total_acs": 2431698,
+        "total_submitted": 4970599,
+        "frontend_question_id": 141,
+        "is_new_question": false
+    },
+    {
+        "question_id": 136,
+        "question__title": "Single Number",
+        "question__title_slug": "single-number",
+        "total_acs": 2427152,
+        "total_submitted": 3384589,
+        "frontend_question_id": 136,
+        "is_new_question": false
+    },
+    {
+        "question_id": 125,
+        "question__title": "Valid Palindrome",
+        "question__title_slug": "valid-palindrome",
+        "total_acs": 2381817,
+        "total_submitted": 5191546,
+        "frontend_question_id": 125,
+        "is_new_question": false
+    },
+    {
+        "question_id": 121,
+        "question__title": "Best Time to Buy and Sell Stock",
+        "question__title_slug": "best-time-to-buy-and-sell-stock",
+        "total_acs": 3895812,
+        "total_submitted": 7284380,
+        "frontend_question_id": 121,
+        "is_new_question": false
+    },
+    {
+        "question_id": 119,
+        "question__title": "Pascal's Triangle II",
+        "question__title_slug": "pascals-triangle-ii",
+        "total_acs": 808211,
+        "total_submitted": 1278463,
+        "frontend_question_id": 119,
+        "is_new_question": false
+    },
+    {
+        "question_id": 118,
+        "question__title": "Pascal's Triangle",
+        "question__title_slug": "pascals-triangle",
+        "total_acs": 1464379,
+        "total_submitted": 2002750,
+        "frontend_question_id": 118,
+        "is_new_question": false
+    },
+    {
+        "question_id": 112,
+        "question__title": "Path Sum",
+        "question__title_slug": "path-sum",
+        "total_acs": 1283580,
+        "total_submitted": 2608176,
+        "frontend_question_id": 112,
+        "is_new_question": false
+    },
+    {
+        "question_id": 111,
+        "question__title": "Minimum Depth of Binary Tree",
+        "question__title_slug": "minimum-depth-of-binary-tree",
+        "total_acs": 1080784,
+        "total_submitted": 2314066,
+        "frontend_question_id": 111,
+        "is_new_question": false
+    },
+    {
+        "question_id": 110,
+        "question__title": "Balanced Binary Tree",
+        "question__title_slug": "balanced-binary-tree",
+        "total_acs": 1270277,
+        "total_submitted": 2510024,
+        "frontend_question_id": 110,
+        "is_new_question": false
+    },
+    {
+        "question_id": 108,
+        "question__title": "Convert Sorted Array to Binary Search Tree",
+        "question__title_slug": "convert-sorted-array-to-binary-search-tree",
+        "total_acs": 1081186,
+        "total_submitted": 1527127,
+        "frontend_question_id": 108,
+        "is_new_question": false
+    },
+    {
+        "question_id": 104,
+        "question__title": "Maximum Depth of Binary Tree",
+        "question__title_slug": "maximum-depth-of-binary-tree",
+        "total_acs": 2647451,
+        "total_submitted": 3548130,
+        "frontend_question_id": 104,
+        "is_new_question": false
+    },
+    {
+        "question_id": 101,
+        "question__title": "Symmetric Tree",
+        "question__title_slug": "symmetric-tree",
+        "total_acs": 1787946,
+        "total_submitted": 3227130,
+        "frontend_question_id": 101,
+        "is_new_question": false
+    },
+    {
+        "question_id": 100,
+        "question__title": "Same Tree",
+        "question__title_slug": "same-tree",
+        "total_acs": 1748975,
+        "total_submitted": 2924176,
+        "frontend_question_id": 100,
+        "is_new_question": false
+    },
+    {
+        "question_id": 94,
+        "question__title": "Binary Tree Inorder Traversal",
+        "question__title_slug": "binary-tree-inorder-traversal",
+        "total_acs": 2198752,
+        "total_submitted": 2937488,
+        "frontend_question_id": 94,
+        "is_new_question": false
+    },
+    {
+        "question_id": 88,
+        "question__title": "Merge Sorted Array",
+        "question__title_slug": "merge-sorted-array",
+        "total_acs": 2479006,
+        "total_submitted": 5148704,
+        "frontend_question_id": 88,
+        "is_new_question": false
+    },
+    {
+        "question_id": 83,
+        "question__title": "Remove Duplicates from Sorted List",
+        "question__title_slug": "remove-duplicates-from-sorted-list",
+        "total_acs": 1325155,
+        "total_submitted": 2570165,
+        "frontend_question_id": 83,
+        "is_new_question": false
+    },
+    {
+        "question_id": 70,
+        "question__title": "Climbing Stairs",
+        "question__title_slug": "climbing-stairs",
+        "total_acs": 2697716,
+        "total_submitted": 5165291,
+        "frontend_question_id": 70,
+        "is_new_question": false
+    },
+    {
+        "question_id": 69,
+        "question__title": "Sqrt(x)",
+        "question__title_slug": "sqrtx",
+        "total_acs": 1673587,
+        "total_submitted": 4402703,
+        "frontend_question_id": 69,
+        "is_new_question": false
+    },
+    {
+        "question_id": 67,
+        "question__title": "Add Binary",
+        "question__title_slug": "add-binary",
+        "total_acs": 1276370,
+        "total_submitted": 2418475,
+        "frontend_question_id": 67,
+        "is_new_question": false
+    },
+    {
+        "question_id": 66,
+        "question__title": "Plus One",
+        "question__title_slug": "plus-one",
+        "total_acs": 1916007,
+        "total_submitted": 4324111,
+        "frontend_question_id": 66,
+        "is_new_question": false
+    },
+    {
+        "question_id": 58,
+        "question__title": "Length of Last Word",
+        "question__title_slug": "length-of-last-word",
+        "total_acs": 1407481,
+        "total_submitted": 3019848,
+        "frontend_question_id": 58,
+        "is_new_question": false
+    },
+    {
+        "question_id": 35,
+        "question__title": "Search Insert Position",
+        "question__title_slug": "search-insert-position",
+        "total_acs": 2468614,
+        "total_submitted": 5537538,
+        "frontend_question_id": 35,
+        "is_new_question": false
+    },
+    {
+        "question_id": 28,
+        "question__title": "Find the Index of the First Occurrence in a String",
+        "question__title_slug": "find-the-index-of-the-first-occurrence-in-a-string",
+        "total_acs": 2037239,
+        "total_submitted": 5002967,
+        "frontend_question_id": 28,
+        "is_new_question": false
+    },
+    {
+        "question_id": 27,
+        "question__title": "Remove Element",
+        "question__title_slug": "remove-element",
+        "total_acs": 2238781,
+        "total_submitted": 4079993,
+        "frontend_question_id": 27,
+        "is_new_question": false
+    },
+    {
+        "question_id": 26,
+        "question__title": "Remove Duplicates from Sorted Array",
+        "question__title_slug": "remove-duplicates-from-sorted-array",
+        "total_acs": 3526645,
+        "total_submitted": 6598823,
+        "frontend_question_id": 26,
+        "is_new_question": false
+    },
+    {
+        "question_id": 21,
+        "question__title": "Merge Two Sorted Lists",
+        "question__title_slug": "merge-two-sorted-lists",
+        "total_acs": 3619344,
+        "total_submitted": 5718230,
+        "frontend_question_id": 21,
+        "is_new_question": false
+    },
+    {
+        "question_id": 20,
+        "question__title": "Valid Parentheses",
+        "question__title_slug": "valid-parentheses",
+        "total_acs": 3881789,
+        "total_submitted": 9659034,
+        "frontend_question_id": 20,
+        "is_new_question": false
+    },
+    {
+        "question_id": 14,
+        "question__title": "Longest Common Prefix",
+        "question__title_slug": "longest-common-prefix",
+        "total_acs": 2778735,
+        "total_submitted": 6668952,
+        "frontend_question_id": 14,
+        "is_new_question": false
+    },
+    {
+        "question_id": 13,
+        "question__title": "Roman to Integer",
+        "question__title_slug": "roman-to-integer",
+        "total_acs": 3078970,
+        "total_submitted": 5165288,
+        "frontend_question_id": 13,
+        "is_new_question": false
+    },
+    {
+        "question_id": 9,
+        "question__title": "Palindrome Number",
+        "question__title_slug": "palindrome-number",
+        "total_acs": 3767868,
+        "total_submitted": 6897392,
+        "frontend_question_id": 9,
+        "is_new_question": false
+    },
+    {
+        "question_id": 1,
+        "question__title": "Two Sum",
+        "question__title_slug": "two-sum",
+        "total_acs": 11155794,
+        "total_submitted": 21921840,
+        "frontend_question_id": 1,
+        "is_new_question": false
+    }
+]
