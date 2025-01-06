@@ -31,8 +31,14 @@ const (
 )
 
 func main() {
-	s := gocron.NewScheduler(time.UTC)
-	_, err := s.Every(1).Hour().Do(func() {
+	location, err := time.LoadLocation("Asia/Jakarta")
+	if err != nil {
+		PrintError("error load time", err)
+		return
+	}
+
+	s := gocron.NewScheduler(location)
+	_, err = s.Every(1).Day().At("08:00").Do(func() {
 		loopFunction()
 	})
 	if err != nil {

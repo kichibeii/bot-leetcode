@@ -1,10 +1,13 @@
 module github.com/bot_dc_leetcode
 
-go 1.22.3
+go 1.19
 
 require (
-	github.com/bwmarrin/discordgo v0.28.1 // indirect
-	github.com/go-co-op/gocron v1.37.0 // indirect
+	github.com/bwmarrin/discordgo v0.28.1
+	github.com/go-co-op/gocron v1.37.0
+)
+
+require (
 	github.com/google/uuid v1.4.0 // indirect
 	github.com/gorilla/websocket v1.4.2 // indirect
 	github.com/robfig/cron/v3 v3.0.1 // indirect
