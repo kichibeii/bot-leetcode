@@ -23,6 +23,9 @@ RUN CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -o bot_dc_leetcode .
 # Use a minimal image for running the compiled binary (e.g., Debian)
 FROM debian:bullseye-slim
 
+# Install ca-certificates to enable SSL/TLS verification
+RUN apt-get update && apt-get install -y ca-certificates && rm -rf /var/lib/apt/lists/*
+
 # Set the working directory inside the container
 WORKDIR /app
 
